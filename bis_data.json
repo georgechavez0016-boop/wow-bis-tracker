@@ -1,0 +1,4661 @@
+[
+  {
+    "class": "Death Knight",
+    "spec": "Blood",
+    "role": "Tank",
+    "url": "https://www.wowhead.com/guide/classes/death-knight/blood/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 49802,
+        "item_name": "Garfrost's Two-Ton Hammer",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=49802"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249970,
+        "item_name": "Relentless Rider's Crown",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249970"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249968,
+        "item_name": "Relentless Rider's Dreadthorns",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249968"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 260312,
+        "item_name": "Defiant Defender's Drape",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=260312"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249973,
+        "item_name": "Relentless Rider's Cuirass",
+        "source": "",
+        "wowhead_url": "https://www.wowhead.com/item=249973"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 237834,
+        "item_name": "Spellbreaker's Bracers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=237834"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 151332,
+        "item_name": "Voidclaw Gauntlets",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151332"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 49808,
+        "item_name": "Bent Gold Belt",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=49808"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249969,
+        "item_name": "Relentless Rider's Legguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249969"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249381,
+        "item_name": "Greaves of the Unformed",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249381"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251513,
+        "item_name": "Loa Worshiper's Band",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=251513"
+      },
+      {
+        "slot": "Ring (Alternative Set)",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus-Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249344,
+        "item_name": "Light Company Guidon",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249344"
+      }
+    ]
+  },
+  {
+    "class": "Death Knight",
+    "spec": "Frost",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/death-knight/frost/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon (2H)",
+        "item_id": 249277,
+        "item_name": "Bellamy's Final Judgement",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249277"
+      },
+      {
+        "slot": "Weapon (1H)",
+        "item_id": 249281,
+        "item_name": "Blade of the Final Twilight",
+        "source": "Fallen-King Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249281"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249970,
+        "item_name": "Relentless Rider's Crown",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249970"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 50234,
+        "item_name": "Shoulderplates of Frozen Blood",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50234"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249973,
+        "item_name": "Relentless Rider's Cuirass",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249973"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 237834,
+        "item_name": "Spellbreaker's Bracers",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=237834"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249971,
+        "item_name": "Relentless Rider's Bonegrasps",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249971"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249380,
+        "item_name": "Hate-Tied Waistchain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249380"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249969,
+        "item_name": "Relentless Rider's Legguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249969"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249381,
+        "item_name": "Greaves of the Unformed",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249381"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249344,
+        "item_name": "Light Company Guidon",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249344"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      }
+    ]
+  },
+  {
+    "class": "Death Knight",
+    "spec": "Unholy",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/death-knight/unholy/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249277,
+        "item_name": "Bellamy's Final Judgement",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249277"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249970,
+        "item_name": "Relentless Rider's Crown",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249970"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 50234,
+        "item_name": "Shoulderplates of Frozen Blood",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50234"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249973,
+        "item_name": "Relentless Rider's Cuirass",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249973"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 237834,
+        "item_name": "Spellbreaker's Bracers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=237834"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249971,
+        "item_name": "Relentless Rider's Bonegrasps",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249971"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249967,
+        "item_name": "Relentless Rider's Chain",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249967"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249969,
+        "item_name": "Relentless Rider's Legguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249969"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249381,
+        "item_name": "Greaves of the Unformed",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249381"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249344,
+        "item_name": "Light Company Guidon",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249344"
+      }
+    ]
+  },
+  {
+    "class": "Demon Hunter",
+    "spec": "Havoc",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/demon-hunter/havoc/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 260408,
+        "item_name": "Lightless Lament",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=260408"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249280,
+        "item_name": "Emblazoned Sunglaive",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249280"
+      },
+      {
+        "slot": "Head",
+        "item_id": 251109,
+        "item_name": "Spellsnap Shadowmask",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=251109"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250031,
+        "item_name": "Devouring Reaver's Exhaustplates",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250031"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250036,
+        "item_name": "Devouring Reaver's Engine",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250036"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 244576,
+        "item_name": "Silvermoon Agent's Deflectors",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=244576"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250034,
+        "item_name": "Devouring Reaver's Essence Grips",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250034"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 251082,
+        "item_name": "Snapvine Cinch",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251082"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250032,
+        "item_name": "Devouring Reaver's Pistons",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250032"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 258577,
+        "item_name": "Boots of Burning Focus",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258577"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      }
+    ]
+  },
+  {
+    "class": "Demon Hunter",
+    "spec": "Vengeance",
+    "role": "Tank",
+    "url": "https://www.wowhead.com/guide/classes/demon-hunter/vengeance/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 260408,
+        "item_name": "Lightless Lament",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=260408"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249298,
+        "item_name": "Tormentor's Bladed Fists",
+        "source": "Fallen-King Salhadaaror Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=249298"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250033,
+        "item_name": "Devouring Reaver's Intake",
+        "source": "Lightblinded Vanguard(Tier Set)",
+        "wowhead_url": "https://www.wowhead.com/item=250033"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 151309,
+        "item_name": "Necklace of the Twisting Void",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151309"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250031,
+        "item_name": "Devouring Reaver's Exhaustplates",
+        "source": "Fallen-King Salhadaar(Tier Set)",
+        "wowhead_url": "https://www.wowhead.com/item=250031"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 151313,
+        "item_name": "Vest of the Void's Embrace",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151313"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 50264,
+        "item_name": "Chewed Leather Wristguards",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50264"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250034,
+        "item_name": "Devouring Reaver's Essence Grips",
+        "source": "Vorasius(Tier Set)",
+        "wowhead_url": "https://www.wowhead.com/item=250034"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 49806,
+        "item_name": "Flayer's Black Belt",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=49806"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250032,
+        "item_name": "Devouring Reaver's Pistons",
+        "source": "Vaelgor & Ezzorak(Tier Set)",
+        "wowhead_url": "https://www.wowhead.com/item=250032"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 251210,
+        "item_name": "Eclipse Espadrilles",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251210"
+      },
+      {
+        "slot": "Ring Set",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Ring (Defensive)",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251513,
+        "item_name": "Loa Worshiper's Band",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=251513"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249344,
+        "item_name": "Light Company Guidon",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249344"
+      }
+    ]
+  },
+  {
+    "class": "Druid",
+    "spec": "Balance",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/druid/balance/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 251111,
+        "item_name": "Splitshroud Stinger",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=251111"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 245769,
+        "item_name": "Aln'hara Lantern",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=245769"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250024,
+        "item_name": "Branches of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250024"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250022,
+        "item_name": "Seedpods of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250022"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250027,
+        "item_name": "Trunk of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250027"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 244576,
+        "item_name": "Silvermoon Agent's Deflectors",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244576"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 251113,
+        "item_name": "Gloves of Viscous Goo",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=251113"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 251082,
+        "item_name": "Snapvine Cinch",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251082"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250023,
+        "item_name": "Phloemwraps of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250023"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249382,
+        "item_name": "Canopy Walker's Footwraps",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249382"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus-Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251217,
+        "item_name": "Occlusion of Void",
+        "source": "Nexus-Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251217"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "The Dreamrift",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      }
+    ]
+  },
+  {
+    "class": "Druid",
+    "spec": "Feral",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/druid/feral/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249302,
+        "item_name": "Inescapable Reach",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249302"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250024,
+        "item_name": "Branches of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250024"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250022,
+        "item_name": "Seedpods of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250022"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250027,
+        "item_name": "Trunk of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250027"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 244576,
+        "item_name": "Silvermoon Agent's Deflectors",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=244576"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 244575,
+        "item_name": "Silvermoon Agent's Handwraps",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=244575"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 251082,
+        "item_name": "Snapvine Cinch",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251082"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250023,
+        "item_name": "Phloemwraps of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250023"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249382,
+        "item_name": "Canopy Walker's Footwraps",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249382"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251115,
+        "item_name": "Bifurcation Band",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=251115"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249806,
+        "item_name": "Radiant Plume",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249806"
+      }
+    ]
+  },
+  {
+    "class": "Druid",
+    "spec": "Guardian",
+    "role": "Tank",
+    "url": "https://www.wowhead.com/guide/classes/druid/guardian/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249278,
+        "item_name": "Alnscorned Spire",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249278"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249913,
+        "item_name": "Mask of Darkest Intent",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249913"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250022,
+        "item_name": "Seedpods of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250022"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250027,
+        "item_name": "Trunk of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250027"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249327,
+        "item_name": "Void-Skinned Bracers",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249327"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250025,
+        "item_name": "Arbortenders of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250025"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249374,
+        "item_name": "Scorn-Scarred Shul'ka's Belt",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249374"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250023,
+        "item_name": "Phloemwraps of the Luminous Bloom",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250023"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249334,
+        "item_name": "Void-Claimed Shinkickers",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249334"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      }
+    ]
+  },
+  {
+    "class": "Druid",
+    "spec": "Restoration",
+    "role": "Healer",
+    "url": "https://www.wowhead.com/guide/classes/druid/restoration/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 250024,
+        "item_name": "Branches of the Luminous Bloom",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250024"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250022,
+        "item_name": "Seedpods of the Luminous Bloom",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250022"
+      },
+      {
+        "slot": "Cape",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 251216,
+        "item_name": "Maledict Vest",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251216"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 193714,
+        "item_name": "Frenzyroot Cuffs",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193714"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250025,
+        "item_name": "Arbortenders of the Luminous Bloom",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250025"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249314,
+        "item_name": "Twisted Twilight Sash",
+        "source": "Fallen-King Salhadaar(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249314"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250023,
+        "item_name": "Phloemwraps of the Luminous Bloom",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250023"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 251210,
+        "item_name": "Eclipse Espadrilles",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251210"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251115,
+        "item_name": "Bifurcation Band",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=251115"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor & Ezzorak(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      },
+      {
+        "slot": "1h Weapon",
+        "item_id": 249283,
+        "item_name": "Belo'melorn, the Shattered Talon",
+        "source": "Belo'ren(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249283"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249922,
+        "item_name": "Tome of Alnscorned Regret",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249922"
+      }
+    ]
+  },
+  {
+    "class": "Evoker",
+    "spec": "Augmentation",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/evoker/augmentation/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 251178,
+        "item_name": "Ceremonial Hexblade",
+        "source": "Maisara Caverns",
+        "wowhead_url": "https://www.wowhead.com/item=251178"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249276,
+        "item_name": "Grimoire of the Eternal Light",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249276"
+      },
+      {
+        "slot": "Head",
+        "item_id": 133506,
+        "item_name": "Horns of the Spurned Val'kyr",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=133506"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249337,
+        "item_name": "Ribbon of Coiled Malice",
+        "source": "Fallen-King Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249337"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249995,
+        "item_name": "Beacons of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249995"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250000,
+        "item_name": "Frenzyward of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250000"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 244584,
+        "item_name": "Farstrider's Plated Bracers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244584"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249998,
+        "item_name": "Enforcer's Grips of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249998"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 49810,
+        "item_name": "Scabrous Zombie Belt",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=49810"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249996,
+        "item_name": "Greaves of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249996"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249999,
+        "item_name": "Spelltreads of the Black Talon",
+        "source": "The Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249999"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 49812,
+        "item_name": "Purloined Wedding Ring",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=49812"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249810,
+        "item_name": "Shadow of the Empyrean Requiem",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249810"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 250223,
+        "item_name": "Soulcatcher's Charm",
+        "source": "Maisara Caverns",
+        "wowhead_url": "https://www.wowhead.com/item=250223"
+      }
+    ]
+  },
+  {
+    "class": "Evoker",
+    "spec": "Devastation",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/evoker/devastation/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249283,
+        "item_name": "Belo'melorn, the Shattered Talon",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249283"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249276,
+        "item_name": "Grimoire of the Eternal Light",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249276"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249997,
+        "item_name": "Hornhelm of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249997"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249995,
+        "item_name": "Beacons of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249995"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250000,
+        "item_name": "Frenzyward of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250000"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 244584,
+        "item_name": "Farstrider's Plated Bracers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244584"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249325,
+        "item_name": "Untethered Berserker's Grips",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249325"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 49810,
+        "item_name": "Scabrous Zombie Belt",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=49810"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249996,
+        "item_name": "Greaves of the Black Talon",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249996"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249377,
+        "item_name": "Darkstrider Treads",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249377"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      }
+    ]
+  },
+  {
+    "class": "Evoker",
+    "spec": "Preservation",
+    "role": "Healer",
+    "url": "https://www.wowhead.com/guide/classes/evoker/preservation/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 249914,
+        "item_name": "Oblivion Guise",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249914"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249995,
+        "item_name": "Beacons of the Black Talon",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249995"
+      },
+      {
+        "slot": "Cape",
+        "item_id": 251206,
+        "item_name": "Fluxweave Cloak",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251206"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250000,
+        "item_name": "Frenzyward of the Black Talon",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250000"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 251079,
+        "item_name": "Amberfrond Bracers",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251079"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249998,
+        "item_name": "Enforcer's Grips of the Black Talon",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249998"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 193722,
+        "item_name": "Azure Belt of Competition",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193722"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249996,
+        "item_name": "Greaves of the Black Talon",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249996"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 251084,
+        "item_name": "Whipcoil Sabatons",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251084"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249369,
+        "item_name": "Bond of Light",
+        "source": "Lightblinded Vanguard(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249369"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      },
+      {
+        "slot": "2h Weapon",
+        "item_id": 258514,
+        "item_name": "Umbral Spire of Zuraal",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=258514"
+      }
+    ]
+  },
+  {
+    "class": "Hunter",
+    "spec": "Beast Mastery",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/hunter/beast-mastery/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 251174,
+        "item_name": "Deceiver's Rotbow",
+        "source": "Maisara Caverns",
+        "wowhead_url": "https://www.wowhead.com/item=251174"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249988,
+        "item_name": "Primal Sentry's Maw",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249988"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 151323,
+        "item_name": "Pauldrons of the Void Hunter",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151323"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249991,
+        "item_name": "Primal Sentry's Scaleplate",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249991"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 251209,
+        "item_name": "Corewarden Cuffs",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251209"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249989,
+        "item_name": "Primal Sentry's Talonguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249989"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 244611,
+        "item_name": "World Tender's Barkclasp",
+        "source": "Leatherworking",
+        "wowhead_url": "https://www.wowhead.com/item=244611"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249987,
+        "item_name": "Primal Sentry's Legguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249987"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 244610,
+        "item_name": "World Tender's Rootslippers",
+        "source": "Leatherworking",
+        "wowhead_url": "https://www.wowhead.com/item=244610"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249369,
+        "item_name": "Bond of Light",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249369"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      }
+    ]
+  },
+  {
+    "class": "Hunter",
+    "spec": "Marksmanship",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/hunter/marksmanship/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249288,
+        "item_name": "Ranger-Captain's Lethal Recurve",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249288"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249988,
+        "item_name": "Primal Sentry's Maw",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249988"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 151323,
+        "item_name": "Pauldrons of the Void Hunter",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151323"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249335,
+        "item_name": "Imperator's Banner",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249335"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249991,
+        "item_name": "Primal Sentry's Scaleplate",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249991"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249304,
+        "item_name": "Fallen King's Cuffs",
+        "source": "Fallen-King Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249304"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249989,
+        "item_name": "Primal Sentry's Talonguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249989"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 244611,
+        "item_name": "World Tender's Barkclasp",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244611"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249987,
+        "item_name": "Primal Sentry's Legguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249987"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 244610,
+        "item_name": "World Tender's Rootslippers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244610"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249336,
+        "item_name": "Signet of the Starved Beast",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249336"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 260235,
+        "item_name": "Umbral Plume",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=260235"
+      }
+    ]
+  },
+  {
+    "class": "Hunter",
+    "spec": "Survival",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/hunter/survival/bis-gear",
+    "bis_items": [
+      {
+        "slot": "2H Weapon",
+        "item_id": 251077,
+        "item_name": "Roostwarden's Bough",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251077"
+      },
+      {
+        "slot": "Main Hand",
+        "item_id": 249284,
+        "item_name": "Belo'ren's Swift Talon",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249284"
+      },
+      {
+        "slot": "Off Hand",
+        "item_id": 237837,
+        "item_name": "Farstrider's Mercy",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=237837"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249988,
+        "item_name": "Primal Sentry's Maw",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249988"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "L'ura(March on Quel'Danas)",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249318,
+        "item_name": "Nullwalker's Dread Epaulettes",
+        "source": "Vaelgor",
+        "wowhead_url": "https://www.wowhead.com/item=249318"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249991,
+        "item_name": "Primal Sentry's Scaleplate",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249991"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249984,
+        "item_name": "Primal Sentry's Wound Stanchers",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249984"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249989,
+        "item_name": "Primal Sentry's Talonguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249989"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249371,
+        "item_name": "Scornbane Waistguard",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249371"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249987,
+        "item_name": "Primal Sentry's Legguards",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249987"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 251084,
+        "item_name": "Whipcoil Sabatons",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251084"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "L'ura(March on Quel'Danas)",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      }
+    ]
+  },
+  {
+    "class": "Mage",
+    "spec": "Arcane",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/mage/arcane/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 258218,
+        "item_name": "Skybreaker's Blade",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258218"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 251094,
+        "item_name": "Sigil of the Restless Heart",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251094"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250060,
+        "item_name": "Voidbreaker's Veil",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250060"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250058,
+        "item_name": "Voidbreaker's Leyline Nexi",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250058"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239661,
+        "item_name": "Arcanoweave Cloak",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239661"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250063,
+        "item_name": "Voidbreaker's Robe",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250063"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 239660,
+        "item_name": "Arcanoweave Bracers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239660"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250061,
+        "item_name": "Voidbreaker's Gloves",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250061"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249376,
+        "item_name": "Whisper-Inscribed Sash",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249376"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 251090,
+        "item_name": "Commander's Faded Breeches",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251090"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249373,
+        "item_name": "Dream-Scorched Striders",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249373"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      }
+    ]
+  },
+  {
+    "class": "Mage",
+    "spec": "Fire",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/mage/fire/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249286,
+        "item_name": "Brazier of the Dissonant Dirge",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249286"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250060,
+        "item_name": "Voidbreaker's Veil",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250060"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250058,
+        "item_name": "Voidbreaker's Leyline Nexi",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250058"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249912,
+        "item_name": "Robes of Endless Oblivion",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249912"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 239648,
+        "item_name": "Martyr's Bindings",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239648"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250061,
+        "item_name": "Voidbreaker's Gloves",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250061"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249376,
+        "item_name": "Whisper-Inscribed Sash",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249376"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250059,
+        "item_name": "Voidbreaker's Britches",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250059"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 258584,
+        "item_name": "Lightbinder Treads",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258584"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249369,
+        "item_name": "Bond of Light",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249369"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 250144,
+        "item_name": "Emberwing Feather",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=250144"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      }
+    ]
+  },
+  {
+    "class": "Mage",
+    "spec": "Frost",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/mage/frost/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 258218,
+        "item_name": "Skybreaker's Blade",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258218"
+      },
+      {
+        "slot": "Off Hand",
+        "item_id": 245769,
+        "item_name": "Aln'hara Lantern",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=245769"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250060,
+        "item_name": "Voidbreaker's Veil",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250060"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 251085,
+        "item_name": "Mantle of Dark Devotion",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251085"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250063,
+        "item_name": "Voidbreaker's Robe",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250063"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 239648,
+        "item_name": "Martyr's Bindings",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239648"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250061,
+        "item_name": "Voidbreaker's Gloves",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250061"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 250057,
+        "item_name": "Voidbreaker's Sage Cord",
+        "source": "The Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=250057"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250059,
+        "item_name": "Voidbreaker's Britches",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250059"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249373,
+        "item_name": "Dream-Scorched Striders",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249373"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      }
+    ]
+  },
+  {
+    "class": "Monk",
+    "spec": "Brewmaster",
+    "role": "Tank",
+    "url": "https://www.wowhead.com/guide/classes/monk/brewmaster/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon (2h)",
+        "item_id": 249302,
+        "item_name": "Inescapable Reach",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249302"
+      },
+      {
+        "slot": "Weapons (1h)",
+        "item_id": 251207,
+        "item_name": "Dreadflail Bludgeon",
+        "source": "Nexus Point XenasMaisara Caverns",
+        "wowhead_url": "https://www.wowhead.com/item=251207"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250015,
+        "item_name": "Fearsome Visage of Ra-den's Chosen",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250015"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 240950,
+        "item_name": "Masterwork Sin'dorei Amulet",
+        "source": "Jewelcrafting",
+        "wowhead_url": "https://www.wowhead.com/item=240950"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250013,
+        "item_name": "Aurastones of Ra-den's Chosen",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250013"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249335,
+        "item_name": "Imperator's Banner",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249335"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250018,
+        "item_name": "Battle Garb of Ra-den's Chosen",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250018"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 250011,
+        "item_name": "Strikeguards of Ra-den's Chosen",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=250011"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250016,
+        "item_name": "Thunderfists of Ra-den's Chosen",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250016"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 251082,
+        "item_name": "Snapvine Cinch",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251082"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 151314,
+        "item_name": "Shifting Stalker Hide Pants",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151314"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 151317,
+        "item_name": "Footpads of Seeping Dread",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151317"
+      },
+      {
+        "slot": "Ring 1",
+        "item_id": 249336,
+        "item_name": "Signet of the Starved Beast",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249336"
+      },
+      {
+        "slot": "Ring 2",
+        "item_id": 251513,
+        "item_name": "Loa Worshiper's Band",
+        "source": "Jewelcrafting",
+        "wowhead_url": "https://www.wowhead.com/item=251513"
+      },
+      {
+        "slot": "Trinket (Damage)",
+        "item_id": 249806,
+        "item_name": "Radiant Plume",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249806"
+      },
+      {
+        "slot": "Trinket (Damage)",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket (Defense)",
+        "item_id": 249339,
+        "item_name": "Gloom-Spattered Dreadscale",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249339"
+      },
+      {
+        "slot": "Trinket (Defense)",
+        "item_id": 151312,
+        "item_name": "Ampoule of Pure Void",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151312"
+      }
+    ]
+  },
+  {
+    "class": "Monk",
+    "spec": "Mistweaver",
+    "role": "Healer",
+    "url": "https://www.wowhead.com/guide/classes/monk/mistweaver/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 258050,
+        "item_name": "Arcanic of the High Sage",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258050"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249276,
+        "item_name": "Grimoire of the Eternal Light",
+        "source": "Vorasius(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249276"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250015,
+        "item_name": "Fearsome Visage of Ra-den's Chosen",
+        "source": "CatalystviaMask of Darkest Intent",
+        "wowhead_url": "https://www.wowhead.com/item=250015"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 50228,
+        "item_name": "Barbed Ymirheim Choker",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50228"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249333,
+        "item_name": "Blooming Barklight Spaulders",
+        "source": "Lightblinded Vanguard(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249333"
+      },
+      {
+        "slot": "Cape",
+        "item_id": 260312,
+        "item_name": "Defiant Defender's Drape",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=260312"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250018,
+        "item_name": "Battle Garb of Ra-den's Chosen",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250018"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 249327,
+        "item_name": "Void-Skinned Bracers",
+        "source": "Vorasius(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249327"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250016,
+        "item_name": "Thunderfists of Ra-den's Chosen",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250016"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249374,
+        "item_name": "Scorn-Scarred Shul'ka's Belt",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249374"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250014,
+        "item_name": "Swiftsweepers of Ra-den's Chosen",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250014"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 250017,
+        "item_name": "Storm Crashers of Ra-den's Chosen",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=250017"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 49812,
+        "item_name": "Purloined Wedding Ring",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=49812"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249808,
+        "item_name": "Litany of Lightblind Wrath",
+        "source": "Lightblinded Vanguard(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249808"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      }
+    ]
+  },
+  {
+    "class": "Monk",
+    "spec": "Windwalker",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/monk/windwalker/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Head",
+        "item_id": 250015,
+        "item_name": "Fearsome Visage of Ra-den's Chosen",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250015"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulder",
+        "item_id": 250013,
+        "item_name": "Aurastones of Ra-den's Chosen",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250013"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 250010,
+        "item_name": "Windwrap of Ra-den's Chosen",
+        "source": "The Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=250010"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250018,
+        "item_name": "Battle Garb of Ra-den's Chosen",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250018"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249327,
+        "item_name": "Void-Skinned Bracers",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249327"
+      },
+      {
+        "slot": "Hands",
+        "item_id": 249321,
+        "item_name": "Vaelgor's Fearsome Grasp",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249321"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 251082,
+        "item_name": "Snapvine Cinch",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251082"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250014,
+        "item_name": "Swiftsweepers of Ra-den's Chosen",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250014"
+      },
+      {
+        "slot": "Feet",
+        "item_id": 250017,
+        "item_name": "Storm Crashers of Ra-den's Chosen",
+        "source": "The Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=250017"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251513,
+        "item_name": "Loa Worshiper's Band",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=251513"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "2H Weapon",
+        "item_id": 251162,
+        "item_name": "Traitor's Talon",
+        "source": "Maisara Caverns",
+        "wowhead_url": "https://www.wowhead.com/item=251162"
+      },
+      {
+        "slot": "Trinket 1",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket 2",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      }
+    ]
+  },
+  {
+    "class": "Paladin",
+    "spec": "Holy",
+    "role": "Healer",
+    "url": "https://www.wowhead.com/guide/classes/paladin/holy/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 193710,
+        "item_name": "Spellboon Saber",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193710"
+      },
+      {
+        "slot": "Shield",
+        "item_id": 258049,
+        "item_name": "Viryx's Indomitable Bulwark",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258049"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249961,
+        "item_name": "Luminant Verdict's Unwavering Gaze",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249961"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249959,
+        "item_name": "Luminant Verdict's Providence Watch",
+        "source": "Fallen-King Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249959"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249964,
+        "item_name": "Luminant Verdict's Divine Warplate",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249964"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 263193,
+        "item_name": "Trollhunter's Bands",
+        "source": "Maisara Caverns",
+        "wowhead_url": "https://www.wowhead.com/item=263193"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249962,
+        "item_name": "Luminant Verdict's Gauntlets",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249962"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249331,
+        "item_name": "Ezzorak's Gloombind",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249331"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249915,
+        "item_name": "Extinction Guards",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249915"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249332,
+        "item_name": "Parasite Stompers",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249332"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      }
+    ]
+  },
+  {
+    "class": "Paladin",
+    "spec": "Protection",
+    "role": "Tank",
+    "url": "https://www.wowhead.com/guide/classes/paladin/protection/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249295,
+        "item_name": "Turalyon's False Echo",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249295"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249921,
+        "item_name": "Thalassian Dawnguard",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249921"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249961,
+        "item_name": "Luminant Verdict's Unwavering Gaze",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249961"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249959,
+        "item_name": "Luminant Verdict's Providence Watch",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249959"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249964,
+        "item_name": "Luminant Verdict's Divine Warplate",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249964"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249326,
+        "item_name": "Light's March Bracers",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249326"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 151332,
+        "item_name": "Voidclaw Gauntlets",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151332"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249331,
+        "item_name": "Ezzorak's Gloombind",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249331"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249960,
+        "item_name": "Luminant Verdict's Greaves",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249960"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249381,
+        "item_name": "Greaves of the Unformed",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249381"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 151311,
+        "item_name": "Band of the Triumvirate",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151311"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249342,
+        "item_name": "Heart of Ancient Hunger",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249342"
+      }
+    ]
+  },
+  {
+    "class": "Paladin",
+    "spec": "Retribution",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/paladin/retribution/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249277,
+        "item_name": "Bellamy's Final Judgement",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249277"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249961,
+        "item_name": "Luminant Verdict's Unwavering Gaze",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249961"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249959,
+        "item_name": "Luminant Verdict's Providence Watch",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249959"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249964,
+        "item_name": "Luminant Verdict's Divine Warplate",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249964"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 237834,
+        "item_name": "Spellbreaker's Bracers",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=237834"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 151332,
+        "item_name": "Voidclaw Gauntlets",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151332"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249380,
+        "item_name": "Hate-Tied Waistchain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249380"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249960,
+        "item_name": "Luminant Verdict's Greaves",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249960"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249381,
+        "item_name": "Greaves of the Unformed",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249381"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring (Alternative Set)",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus-Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Ring (Alternative Set)",
+        "item_id": 251217,
+        "item_name": "Occlusion of Void",
+        "source": "Nexus-Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251217"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 260235,
+        "item_name": "Umbral Plume",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=260235"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      }
+    ]
+  },
+  {
+    "class": "Priest",
+    "spec": "Discipline",
+    "role": "Healer",
+    "url": "https://www.wowhead.com/guide/classes/priest/discipline/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 250051,
+        "item_name": "Blind Oath's Winged Crest",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250051"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250049,
+        "item_name": "Blind Oath's Seraphguards",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250049"
+      },
+      {
+        "slot": "Cape",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249912,
+        "item_name": "Robes of Endless Oblivion",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249912"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 249315,
+        "item_name": "Voracious Wristwraps",
+        "source": "Vorasius(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249315"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250052,
+        "item_name": "Blind Oath's Touch",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250052"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 239664,
+        "item_name": "Arcanoweave Cord",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=239664"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250050,
+        "item_name": "Blind Oath's Leggings",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250050"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 258584,
+        "item_name": "Lightbinder Treads",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258584"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor & Ezzorak(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      },
+      {
+        "slot": "1h Weapon",
+        "item_id": 249283,
+        "item_name": "Belo'melorn, the Shattered Talon",
+        "source": "Belo'ren(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249283"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 245769,
+        "item_name": "Aln'hara Lantern",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=245769"
+      }
+    ]
+  },
+  {
+    "class": "Priest",
+    "spec": "Holy",
+    "role": "Healer",
+    "url": "https://www.wowhead.com/guide/classes/priest/holy/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 250051,
+        "item_name": "Blind Oath's Winged Crest",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250051"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250049,
+        "item_name": "Blind Oath's Seraphguards",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250049"
+      },
+      {
+        "slot": "Cape",
+        "item_id": 249335,
+        "item_name": "Imperator's Banner",
+        "source": "Imperator Averzian(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249335"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249912,
+        "item_name": "Robes of Endless Oblivion",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249912"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 250047,
+        "item_name": "Blind Oath's Wraps",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250047"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250052,
+        "item_name": "Blind Oath's Touch",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250052"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 239664,
+        "item_name": "Arcanoweave Cord",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=239664"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250050,
+        "item_name": "Blind Oath's Leggings",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250050"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249373,
+        "item_name": "Dream-Scorched Striders",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249373"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249336,
+        "item_name": "Signet of the Starved Beast",
+        "source": "Vorasius(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249336"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249808,
+        "item_name": "Litany of Lightblind Wrath",
+        "source": "War Chaplain Senn(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249808"
+      },
+      {
+        "slot": "1h Weapon",
+        "item_id": 249293,
+        "item_name": "Weight of Command",
+        "source": "Imperator Averzian(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249293"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 245769,
+        "item_name": "Aln'hara Lantern",
+        "source": "Crafting/Misc",
+        "wowhead_url": "https://www.wowhead.com/item=245769"
+      }
+    ]
+  },
+  {
+    "class": "Priest",
+    "spec": "Shadow",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/priest/shadow/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 250051,
+        "item_name": "Blind Oath's Winged Crest",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250051"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250049,
+        "item_name": "Blind Oath's Seraphguards",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250049"
+      },
+      {
+        "slot": "Cape",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250054,
+        "item_name": "Blind Oath's Raiment",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250054"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 251108,
+        "item_name": "Wraps of Watchful Wrath",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=251108"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250052,
+        "item_name": "Blind Oath's Touch",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250052"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249376,
+        "item_name": "Whisper-Inscribed Sash",
+        "source": "Belo'ren(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249376"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250050,
+        "item_name": "Blind Oath's Leggings",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250050"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249373,
+        "item_name": "Dream-Scorched Striders",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249373"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249369,
+        "item_name": "Bond of Light",
+        "source": "Lightblinded Vanguard(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249369"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor & Ezzorak(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      },
+      {
+        "slot": "1h Weapon",
+        "item_id": 249283,
+        "item_name": "Belo'melorn, the Shattered Talon",
+        "source": "Belo'ren(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249283"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249922,
+        "item_name": "Tome of Alnscorned Regret",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249922"
+      }
+    ]
+  },
+  {
+    "class": "Rogue",
+    "spec": "Assassination",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/rogue/assassination/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249925,
+        "item_name": "Hungering Victory",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249925"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 237837,
+        "item_name": "Farstrider's Mercy",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=237837"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250006,
+        "item_name": "Masquerade of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250006"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249337,
+        "item_name": "Ribbon of Coiled Malice",
+        "source": "Fallen-King Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249337"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250004,
+        "item_name": "Venom Casks of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250004"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 260312,
+        "item_name": "Defiant Defender's Drape",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=260312"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250009,
+        "item_name": "Fantastic Finery of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250009"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 244576,
+        "item_name": "Silvermoon Agent's Deflectors",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244576"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250007,
+        "item_name": "Sleight of Hand of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250007"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249374,
+        "item_name": "Scorn-Scarred Shul'ka's Belt",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249374"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 251087,
+        "item_name": "Legwraps of Lingering Legacies",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251087"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249382,
+        "item_name": "Canopy Walker's Footwraps",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249382"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      }
+    ]
+  },
+  {
+    "class": "Rogue",
+    "spec": "Outlaw",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/rogue/outlaw/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 260423,
+        "item_name": "Arator's Swift Remembrance",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=260423"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 133491,
+        "item_name": "Krick's Beetle Stabber",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=133491"
+      },
+      {
+        "slot": "Head",
+        "item_id": 151336,
+        "item_name": "Voidlashed Hood",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151336"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 50228,
+        "item_name": "Barbed Ymirheim Choker",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50228"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250004,
+        "item_name": "Venom Casks of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250004"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249335,
+        "item_name": "Imperator's Banner",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249335"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250009,
+        "item_name": "Fantastic Finery of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250009"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 50264,
+        "item_name": "Chewed Leather Wristguards",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50264"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250007,
+        "item_name": "Sleight of Hand of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250007"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249374,
+        "item_name": "Scorn-Scarred Shul'ka's Belt",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249374"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250005,
+        "item_name": "Blade Holsters of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250005"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 244569,
+        "item_name": "Silvermoon Agent's Sneakers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244569"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249336,
+        "item_name": "Signet of the Starved Beast",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249336"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 240949,
+        "item_name": "Masterwork Sin'dorei Band",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=240949"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 260235,
+        "item_name": "Umbral Plume",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=260235"
+      }
+    ]
+  },
+  {
+    "class": "Rogue",
+    "spec": "Subtlety",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/rogue/subtlety/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Head",
+        "item_id": 250006,
+        "item_name": "Masquerade of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250006"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 250004,
+        "item_name": "Venom Casks of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250004"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250009,
+        "item_name": "Fantastic Finery of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250009"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249327,
+        "item_name": "Void-Skinned Bracers",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249327"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250007,
+        "item_name": "Sleight of Hand of the Grim Jest",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250007"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 244573,
+        "item_name": "Silvermoon Agent's Utility Belt",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244573"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 251087,
+        "item_name": "Legwraps of Lingering Legacies",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251087"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249382,
+        "item_name": "Canopy Walker's Footwraps",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249382"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249369,
+        "item_name": "Bond of Light",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249369"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249344,
+        "item_name": "Light Company Guidon",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249344"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Weapon",
+        "item_id": 249284,
+        "item_name": "Belo'ren's Swift Talon",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249284"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 237837,
+        "item_name": "Farstrider's Mercy",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=237837"
+      }
+    ]
+  },
+  {
+    "class": "Shaman",
+    "spec": "Elemental",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/shaman/elemental/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 251083,
+        "item_name": "Excavating Cudgel",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251083"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 251105,
+        "item_name": "Ward of the Spellbreaker",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=251105"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249979,
+        "item_name": "Locus of the Primal Core",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249979"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249977,
+        "item_name": "Tempests of the Primal Core",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249977"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249974,
+        "item_name": "Guardian of the Primal Core",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249974"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249982,
+        "item_name": "Embrace of the Primal Core",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249982"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249304,
+        "item_name": "Fallen King's Cuffs",
+        "source": "Fallen-King Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249304"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249980,
+        "item_name": "Earthgrips of the Primal Core",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249980"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 244611,
+        "item_name": "World Tender's Barkclasp",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244611"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 251215,
+        "item_name": "Greaves of the Divine Guile",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251215"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 244610,
+        "item_name": "World Tender's Rootslippers",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244610"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 250144,
+        "item_name": "Emberwing Feather",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=250144"
+      }
+    ]
+  },
+  {
+    "class": "Shaman",
+    "spec": "Enhancement",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/shaman/enhancement/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Main Hand",
+        "item_id": 249287,
+        "item_name": "Clutchmates' Caress",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249287"
+      },
+      {
+        "slot": "Off Hand",
+        "item_id": 237850,
+        "item_name": "Farstrider's Chopper",
+        "source": "Blacksmithing",
+        "wowhead_url": "https://www.wowhead.com/item=237850"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249979,
+        "item_name": "Locus of the Primal Core",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249979"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249977,
+        "item_name": "Tempests of the Primal Core",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249977"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Tailoring",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249982,
+        "item_name": "Embrace of the Primal Core",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249982"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249304,
+        "item_name": "Fallen King's Cuffs",
+        "source": "Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249304"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249980,
+        "item_name": "Earthgrips of the Primal Core",
+        "source": "Catalyst|Raid|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249980"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249976,
+        "item_name": "Ceinture of the Primal Core",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249976"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249324,
+        "item_name": "Eternal Flame Scaleguards",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249324"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 251084,
+        "item_name": "Whipcoil Sabatons",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251084"
+      },
+      {
+        "slot": "Ring 1",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring 2",
+        "item_id": 251093,
+        "item_name": "Omission of Light",
+        "source": "Nexus-Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251093"
+      },
+      {
+        "slot": "Trinket 1",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Raid",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket 2",
+        "item_id": 193701,
+        "item_name": "Algeth'ar Puzzle Box",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193701"
+      }
+    ]
+  },
+  {
+    "class": "Shaman",
+    "spec": "Restoration",
+    "role": "Healer",
+    "url": "https://www.wowhead.com/guide/classes/shaman/restoration/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 249914,
+        "item_name": "Oblivion Guise",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249914"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249337,
+        "item_name": "Ribbon of Coiled Malice",
+        "source": "Fallen-King Salhadaar(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249337"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249977,
+        "item_name": "Tempests of the Primal Core",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249977"
+      },
+      {
+        "slot": "Cape",
+        "item_id": 249974,
+        "item_name": "Guardian of the Primal Core",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249974"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249982,
+        "item_name": "Embrace of the Primal Core",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249982"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 249975,
+        "item_name": "Cuffs of the Primal Core",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249975"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 249980,
+        "item_name": "Earthgrips of the Primal Core",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249980"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249303,
+        "item_name": "Waistcord of the Judged",
+        "source": "Lightblinded Vanguard(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249303"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249978,
+        "item_name": "Leggings of the Primal Core",
+        "source": "Raid|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=249978"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249320,
+        "item_name": "Sabatons of Obscurement",
+        "source": "Imperator Averzian(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249320"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "source": "Belo'ren(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249811,
+        "item_name": "Light of the Cosmic Crescendo",
+        "source": "Midnight Falls(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249811"
+      },
+      {
+        "slot": "Trinkets",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      },
+      {
+        "slot": "1h Weapon",
+        "item_id": 249293,
+        "item_name": "Weight of Command",
+        "source": "Imperator Averzian(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249293"
+      },
+      {
+        "slot": "Shield",
+        "item_id": 251202,
+        "item_name": "Reflux Reflector",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251202"
+      }
+    ]
+  },
+  {
+    "class": "Warlock",
+    "spec": "Affliction",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/warlock/affliction/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249283,
+        "item_name": "Belo'melorn, the Shattered Talon",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249283"
+      },
+      {
+        "slot": "Off-Hand",
+        "item_id": 249276,
+        "item_name": "Grimoire of the Eternal Light",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249276"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250042,
+        "item_name": "Abyssal Immolator's Smoldering Flames",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250042"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 251085,
+        "item_name": "Mantle of Dark Devotion",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251085"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250045,
+        "item_name": "Abyssal Immolator's Dreadrobe",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250045"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 239648,
+        "item_name": "Martyr's Bindings",
+        "source": "Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=239648"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250043,
+        "item_name": "Abyssal Immolator's Grasps",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250043"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249376,
+        "item_name": "Whisper-Inscribed Sash",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249376"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250041,
+        "item_name": "Abyssal Immolator's Pillars",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250041"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249305,
+        "item_name": "Slippers of the Midnight Flame",
+        "source": "Vaelgor",
+        "wowhead_url": "https://www.wowhead.com/item=249305"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251217,
+        "item_name": "Occlusion of Void",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251217"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 250144,
+        "item_name": "Emberwing Feather",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=250144"
+      }
+    ]
+  },
+  {
+    "class": "Warlock",
+    "spec": "Demonology",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/warlock/demonology/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249283,
+        "item_name": "Belo'melorn, the Shattered Talon",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249283"
+      },
+      {
+        "slot": "Off-Hand",
+        "item_id": 249276,
+        "item_name": "Grimoire of the Eternal Light",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249276"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250042,
+        "item_name": "Abyssal Immolator's Smoldering Flames",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250042"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 251085,
+        "item_name": "Mantle of Dark Devotion",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251085"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250045,
+        "item_name": "Abyssal Immolator's Dreadrobe",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250045"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 239648,
+        "item_name": "Martyr's Bindings",
+        "source": "Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=239648"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250043,
+        "item_name": "Abyssal Immolator's Grasps",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250043"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249376,
+        "item_name": "Whisper-Inscribed Sash",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249376"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250041,
+        "item_name": "Abyssal Immolator's Pillars",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250041"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249305,
+        "item_name": "Slippers of the Midnight Flame",
+        "source": "Vaelgor",
+        "wowhead_url": "https://www.wowhead.com/item=249305"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251217,
+        "item_name": "Occlusion of Void",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251217"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 250144,
+        "item_name": "Emberwing Feather",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=250144"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249809,
+        "item_name": "Locus-Walker's Ribbon",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249809"
+      },
+      {
+        "slot": "Alt Trinket",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      }
+    ]
+  },
+  {
+    "class": "Warlock",
+    "spec": "Destruction",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/warlock/destruction/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249283,
+        "item_name": "Belo'melorn, the Shattered Talon",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249283"
+      },
+      {
+        "slot": "Off-Hand",
+        "item_id": 249276,
+        "item_name": "Grimoire of the Eternal Light",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249276"
+      },
+      {
+        "slot": "Head",
+        "item_id": 250042,
+        "item_name": "Abyssal Immolator's Smoldering Flames",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250042"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 251085,
+        "item_name": "Mantle of Dark Devotion",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251085"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 250045,
+        "item_name": "Abyssal Immolator's Dreadrobe",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250045"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 239648,
+        "item_name": "Martyr's Bindings",
+        "source": "Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=239648"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 250043,
+        "item_name": "Abyssal Immolator's Grasps",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250043"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249376,
+        "item_name": "Whisper-Inscribed Sash",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249376"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 250041,
+        "item_name": "Abyssal Immolator's Pillars",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250041"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249305,
+        "item_name": "Slippers of the Midnight Flame",
+        "source": "Vaelgor",
+        "wowhead_url": "https://www.wowhead.com/item=249305"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251217,
+        "item_name": "Occlusion of Void",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251217"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249346,
+        "item_name": "Vaelgor's Final Stare",
+        "source": "Vaelgor",
+        "wowhead_url": "https://www.wowhead.com/item=249346"
+      }
+    ]
+  },
+  {
+    "class": "Warrior",
+    "spec": "Arms",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/warrior/arms/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 249952,
+        "item_name": "Night Ender's Tusks",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249952"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249337,
+        "item_name": "Ribbon of Coiled Malice",
+        "source": "Fallen-King Salhadaar",
+        "wowhead_url": "https://www.wowhead.com/item=249337"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249950,
+        "item_name": "Night Ender's Pauldrons",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249950"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "source": "Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249955,
+        "item_name": "Night Ender's Breastplate",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249955"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 237834,
+        "item_name": "Spellbreaker's Bracers",
+        "source": "Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=237834"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 251081,
+        "item_name": "Embergrove Grasps",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251081"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249949,
+        "item_name": "Night Ender's Girdle",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249949"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249951,
+        "item_name": "Night Ender's Chausses",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249951"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249381,
+        "item_name": "Greaves of the Unformed",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249381"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 251217,
+        "item_name": "Occlusion of Void",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251217"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249342,
+        "item_name": "Heart of Ancient Hunger",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249342"
+      },
+      {
+        "slot": "Mainhand",
+        "item_id": 249296,
+        "item_name": "Alah'endal, the Dawnsong",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249296"
+      }
+    ]
+  },
+  {
+    "class": "Warrior",
+    "spec": "Fury",
+    "role": "DPS",
+    "url": "https://www.wowhead.com/guide/classes/warrior/fury/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Helm",
+        "item_id": 249952,
+        "item_name": "Night Ender's Tusks",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249952"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 250247,
+        "item_name": "Amulet of the Abyssal Hymn",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=250247"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249950,
+        "item_name": "Night Ender's Pauldrons",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249950"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249955,
+        "item_name": "Night Ender's Breastplate",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249955"
+      },
+      {
+        "slot": "Bracers",
+        "item_id": 237834,
+        "item_name": "Spellbreaker's Bracers",
+        "source": "Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=237834"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 151332,
+        "item_name": "Voidclaw Gauntlets",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151332"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249949,
+        "item_name": "Night Ender's Girdle",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249949"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249951,
+        "item_name": "Night Ender's Chausses",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249951"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249954,
+        "item_name": "Night Ender's Greatboots",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249954"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249342,
+        "item_name": "Heart of Ancient Hunger",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249342"
+      },
+      {
+        "slot": "Mainhand",
+        "item_id": 249277,
+        "item_name": "Bellamy's Final Judgement",
+        "source": "Lightblinded Vanguard",
+        "wowhead_url": "https://www.wowhead.com/item=249277"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 237846,
+        "item_name": "Blood Knight's Warblade",
+        "source": "Crafted",
+        "wowhead_url": "https://www.wowhead.com/item=237846"
+      }
+    ]
+  },
+  {
+    "class": "Warrior",
+    "spec": "Protection",
+    "role": "Tank",
+    "url": "https://www.wowhead.com/guide/classes/warrior/protection/bis-gear",
+    "bis_items": [
+      {
+        "slot": "Weapon",
+        "item_id": 249295,
+        "item_name": "Turalyon's False Echo",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249295"
+      },
+      {
+        "slot": "Offhand",
+        "item_id": 249921,
+        "item_name": "Thalassian Dawnguard",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249921"
+      },
+      {
+        "slot": "Head",
+        "item_id": 249952,
+        "item_name": "Night Ender's Tusks",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249952"
+      },
+      {
+        "slot": "Neck",
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
+      },
+      {
+        "slot": "Shoulders",
+        "item_id": 249950,
+        "item_name": "Night Ender's Pauldrons",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249950"
+      },
+      {
+        "slot": "Cloak",
+        "item_id": 249370,
+        "item_name": "Draconic Nullcape",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249370"
+      },
+      {
+        "slot": "Chest",
+        "item_id": 249955,
+        "item_name": "Night Ender's Breastplate",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249955"
+      },
+      {
+        "slot": "Wrist",
+        "item_id": 249326,
+        "item_name": "Light's March Bracers",
+        "source": "Imperator Averzian",
+        "wowhead_url": "https://www.wowhead.com/item=249326"
+      },
+      {
+        "slot": "Gloves",
+        "item_id": 151332,
+        "item_name": "Voidclaw Gauntlets",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151332"
+      },
+      {
+        "slot": "Belt",
+        "item_id": 249331,
+        "item_name": "Ezzorak's Gloombind",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249331"
+      },
+      {
+        "slot": "Legs",
+        "item_id": 249951,
+        "item_name": "Night Ender's Chausses",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249951"
+      },
+      {
+        "slot": "Boots",
+        "item_id": 249381,
+        "item_name": "Greaves of the Unformed",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249381"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249920,
+        "item_name": "Eye of Midnight",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249920"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 151311,
+        "item_name": "Band of the Triumvirate",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=151311"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249342,
+        "item_name": "Heart of Ancient Hunger",
+        "source": "Vorasius",
+        "wowhead_url": "https://www.wowhead.com/item=249342"
+      }
+    ]
+  }
+]

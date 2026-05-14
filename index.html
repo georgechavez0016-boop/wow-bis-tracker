@@ -219,7 +219,7 @@
     <button class="provider-btn" data-provider="archon" >Archon</button>
   </div>
   <span class="updated">
-    <span>Last scraped: 2026-05-14 15:32</span>
+    <span>Last scraped: 2026-05-14 15:56</span>
     <span class="spec-count" style="color:#4caf50;border-color:#4caf50;background:#4caf5018">WH 39/39</span>
     <span class="spec-count" style="color:#4caf50;border-color:#4caf50;background:#4caf5018">IV 39/39</span>
     <span class="spec-count" style="color:#4caf50;border-color:#4caf50;background:#4caf5018">AR 39/39</span>
@@ -228,7 +228,7 @@
 
 <div class="disclaimer">
   <span>&#9432;</span>
-  <span id="disclaimerText">BiS data is scraped from community-written guides on <a href="https://www.wowhead.com" target="_blank">Wowhead</a> and <a href="https://www.icy-veins.com" target="_blank">Icy Veins</a>. Item recommendations reflect the opinions of each guide's author and may not match every playstyle or progression level. Data was last collected on 2026-05-14 15:32 — re-scrape after major patches to stay current.</span>
+  <span id="disclaimerText">BiS data is scraped from community-written guides on <a href="https://www.wowhead.com" target="_blank">Wowhead</a> and <a href="https://www.icy-veins.com" target="_blank">Icy Veins</a>. Item recommendations reflect the opinions of each guide's author and may not match every playstyle or progression level. Data was last collected on 2026-05-14 15:56 — re-scrape after major patches to stay current.</span>
 </div>
 
 <div class="controls">
@@ -606,74 +606,84 @@ function renderDiscrepancies(specIdx) {
   const color = getColor(whSpec.class);
   const normalizeSlotKey = s => normalizeSlot(s).toLowerCase();
 
-  // Build slot maps for all 3 providers
+  // Build slot maps as arrays so duplicate slots (Ring x2, Trinket x2) are preserved
   const ivSpec = IV_DATA.find(s => s.class === whSpec.class && s.spec === whSpec.spec);
   const arSpec = AR_DATA.find(s => s.class === whSpec.class && s.spec === whSpec.spec);
 
-  const whMap = {}, ivMap = {}, arMap = {};
-  whSpec.bis_items.forEach(i => whMap[normalizeSlotKey(i.slot)] = i);
-  if (ivSpec) ivSpec.bis_items.forEach(i => ivMap[normalizeSlotKey(i.slot)] = i);
-  if (arSpec) arSpec.bis_items.forEach(i => arMap[normalizeSlotKey(i.slot)] = i);
+  function buildArrayMap(items) {
+    const map = {};
+    items.forEach(i => {
+      const key = normalizeSlotKey(i.slot);
+      if (!map[key]) map[key] = [];
+      map[key].push(i);
+    });
+    return map;
+  }
 
-  const allSlots = [...new Set([
-    ...Object.keys(whMap), ...Object.keys(ivMap), ...Object.keys(arMap)
-  ])].sort();
+  const whMap = buildArrayMap(whSpec.bis_items);
+  const ivMap = ivSpec ? buildArrayMap(ivSpec.bis_items) : {};
+  const arMap = arSpec ? buildArrayMap(arSpec.bis_items) : {};
 
-  let fullAgree = 0, partial = 0, allDiff = 0;
-  let rows = '';
-
+  // Collect unique base slot keys then sort by gear slot order
   const SLOT_ORDER = ['head','neck','shoulders','cloak','chest','wrists','gloves','belt','legs','boots','ring','trinket','weapon','off hand'];
-  allSlots.sort((a, b) => {
+  const baseSlotKeys = [...new Set([...Object.keys(whMap), ...Object.keys(ivMap), ...Object.keys(arMap)])];
+  baseSlotKeys.sort((a, b) => {
     const ai = SLOT_ORDER.findIndex(s => a.includes(s));
     const bi = SLOT_ORDER.findIndex(s => b.includes(s));
     return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
   });
 
-  allSlots.forEach(slotKey => {
-    const wh = whMap[slotKey];
-    const iv = ivMap[slotKey];
-    const ar = arMap[slotKey];
+  let fullAgree = 0, partial = 0, allDiff = 0;
+  let rows = '';
 
-    const slotName = (wh || iv || ar).slot;
+  // Expand each base slot by the max count across providers (handles Ring x2, Trinket x2)
+  baseSlotKeys.forEach(slotKey => {
+    const whArr = whMap[slotKey] || [];
+    const ivArr = ivMap[slotKey] || [];
+    const arArr = arMap[slotKey] || [];
+    const count = Math.max(whArr.length, ivArr.length, arArr.length);
+    for (let idx = 0; idx < count; idx++) {
+      const wh = whArr[idx] || null;
+      const iv = ivArr[idx] || null;
+      const ar = arArr[idx] || null;
+      const slotName = (wh || iv || ar).slot;
 
-    const itemCell = (item, color) => {
-      if (!item) return `<td class="no-comp" style="font-style:italic;color:#444">—</td>`;
-      const icon = item.icon_url ? `<img class="item-icon" src="${item.icon_url}" alt="" loading="lazy">` : '';
-      const url  = item.wowhead_url || '#';
-      const pop  = item.popularity ? `<span style="font-size:11px;color:#f0b932;margin-left:5px">${item.popularity}</span>` : '';
-      return `<td class="item-name">${icon}<a href="${url}" target="_blank" style="color:${color}">${item.item_name}</a>${pop}</td>`;
-    };
+      const itemCell = (item, clr) => {
+        if (!item) return `<td class="no-comp" style="font-style:italic;color:#444">—</td>`;
+        const icon = item.icon_url ? `<img class="item-icon" src="${item.icon_url}" alt="" loading="lazy">` : '';
+        const url  = item.wowhead_url || '#';
+        const pop  = item.popularity ? `<span style="font-size:11px;color:#f0b932;margin-left:5px">${item.popularity}</span>` : '';
+        return `<td class="item-name">${icon}<a href="${url}" target="_blank" style="color:${clr}">${item.item_name}</a>${pop}</td>`;
+      };
 
-    // Agreement check — compare by item_id where available, else name
-    const ids = [wh, iv, ar]
-      .filter(Boolean)
-      .map(x => x.item_id || x.item_name.toLowerCase());
-    const uniqueIds = new Set(ids);
-    const agreementCount = ids.length - (uniqueIds.size - 1);
+      const ids = [wh, iv, ar]
+        .filter(Boolean)
+        .map(x => x.item_id || x.item_name.toLowerCase());
+      const uniqueIds = new Set(ids);
 
-    let rowBg = '', marker = '';
-    if (uniqueIds.size === 1 && ids.length === 3) {
-      fullAgree++;
-      rowBg = '';
-      marker = `<span style="color:#4caf50;font-size:16px" title="All 3 agree">&#10003;</span>`;
-    } else if (uniqueIds.size < ids.length) {
-      partial++;
-      rowBg = 'background:#131820;';
-      marker = `<span style="color:#f0b932;font-size:15px" title="Partial agreement">&#9670;</span>`;
-    } else {
-      allDiff++;
-      rowBg = 'background:#1a0f05;';
-      marker = `<span style="color:#e05252;font-size:16px" title="All 3 disagree">&#9632;</span>`;
-    }
+      let rowBg = '', marker = '';
+      if (uniqueIds.size === 1 && ids.length === 3) {
+        fullAgree++;
+        marker = `<span style="color:#4caf50;font-size:16px" title="All 3 agree">&#10003;</span>`;
+      } else if (uniqueIds.size < ids.length) {
+        partial++;
+        rowBg = 'background:#131820;';
+        marker = `<span style="color:#f0b932;font-size:15px" title="Partial agreement">&#9670;</span>`;
+      } else {
+        allDiff++;
+        rowBg = 'background:#1a0f05;';
+        marker = `<span style="color:#e05252;font-size:16px" title="All 3 disagree">&#9632;</span>`;
+      }
 
-    rows += `<tr style="${rowBg}">
-      <td class="col-slot">${slotName}</td>
-      ${itemCell(wh, '#3fc7eb')}
-      ${itemCell(iv, '#ff9b3d')}
-      ${itemCell(ar, '#aad372')}
-      <td style="text-align:center;width:40px">${marker}</td>
-    </tr>`;
-  });
+      rows += `<tr style="${rowBg}">
+        <td class="col-slot">${slotName}</td>
+        ${itemCell(wh, '#3fc7eb')}
+        ${itemCell(iv, '#ff9b3d')}
+        ${itemCell(ar, '#aad372')}
+        <td style="text-align:center;width:40px">${marker}</td>
+      </tr>`;
+    }  // end index loop
+  });  // end baseSlotKeys forEach
 
   const total = fullAgree + partial + allDiff;
   const pct = total ? Math.round(fullAgree / total * 100) : 0;

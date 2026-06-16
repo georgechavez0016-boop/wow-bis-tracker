@@ -219,7 +219,7 @@
     <button class="provider-btn" data-provider="archon" >Archon</button>
   </div>
   <span class="updated">
-    <span>Last scraped: 2026-06-16 18:19</span>
+    <span>Last scraped: 2026-06-16 18:28</span>
     <span class="spec-count" style="color:#4caf50;border-color:#4caf50;background:#4caf5018">WH 39/39</span>
     <span class="spec-count" style="color:#4caf50;border-color:#4caf50;background:#4caf5018">IV 39/39</span>
     <span class="spec-count" style="color:#4caf50;border-color:#4caf50;background:#4caf5018">AR 39/39</span>
@@ -228,7 +228,7 @@
 
 <div class="disclaimer">
   <span>&#9432;</span>
-  <span id="disclaimerText">BiS data is scraped from community-written guides on <a href="https://www.wowhead.com" target="_blank">Wowhead</a> and <a href="https://www.icy-veins.com" target="_blank">Icy Veins</a>. Item recommendations reflect the opinions of each guide's author and may not match every playstyle or progression level. Data was last collected on 2026-06-16 18:19 — re-scrape after major patches to stay current.</span>
+  <span id="disclaimerText">BiS data is scraped from community-written guides on <a href="https://www.wowhead.com" target="_blank">Wowhead</a> and <a href="https://www.icy-veins.com" target="_blank">Icy Veins</a>. Item recommendations reflect the opinions of each guide's author and may not match every playstyle or progression level. Data was last collected on 2026-06-16 18:28 — re-scrape after major patches to stay current.</span>
 </div>
 
 <div class="controls">
@@ -484,6 +484,7 @@ function renderSpecView(specIdx) {
 
   html += `</tbody></table>`;
   document.getElementById('spec-content').innerHTML = html;
+  if (typeof $WowheadPower !== 'undefined') $WowheadPower.init();
   attachResizers();
 }
 
@@ -563,6 +564,7 @@ function renderContestedView() {
 
   html += `</tbody></table>`;
   document.getElementById('contested-content').innerHTML = html;
+  if (typeof $WowheadPower !== 'undefined') $WowheadPower.init();
   attachResizers();
 }
 
@@ -708,6 +710,7 @@ function renderDiscrepancies(specIdx) {
     </table>`;
 
   document.getElementById('discrepancies-content').innerHTML = html;
+  if (typeof $WowheadPower !== 'undefined') $WowheadPower.init();
   attachResizers();
 }
 
@@ -758,6 +761,10 @@ document.querySelectorAll('.tab').forEach(tab => {
     document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
     tab.classList.add('active');
     document.getElementById(tab.dataset.tab).classList.add('active');
+    const idx = document.getElementById('specSelect').value;
+    if (tab.dataset.tab === 'discrepancies' && idx !== '') renderDiscrepancies(parseInt(idx));
+    if (tab.dataset.tab === 'my-spec' && idx !== '') renderSpecView(parseInt(idx));
+    if (tab.dataset.tab === 'contested') renderContestedView();
   });
 });
 

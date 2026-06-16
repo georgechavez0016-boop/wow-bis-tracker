@@ -50,7 +50,7 @@
         "item_id": 249973,
         "item_name": "Relentless Rider's Cuirass",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_chest.jpg",
-        "source": "",
+        "source": "SporefallCatalyzePutrid Tender's Battleplate",
         "wowhead_url": "https://www.wowhead.com/item=249973"
       },
       {
@@ -71,11 +71,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 49808,
-        "item_name": "Bent Gold Belt",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_70.jpg",
-        "source": "Pit of Saron",
-        "wowhead_url": "https://www.wowhead.com/item=49808"
+        "item_id": 268289,
+        "item_name": "Girdle of Devouring Rot",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidpaladinmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268289"
       },
       {
         "slot": "Legs",
@@ -167,11 +167,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -194,7 +194,7 @@
         "item_id": 249973,
         "item_name": "Relentless Rider's Cuirass",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_chest.jpg",
-        "source": "Tier Set",
+        "source": "Sporefall(Catalyst)/Tier Set",
         "wowhead_url": "https://www.wowhead.com/item=249973"
       },
       {
@@ -215,11 +215,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249380,
-        "item_name": "Hate-Tied Waistchain",
+        "item_id": 249967,
+        "item_name": "Relentless Rider's Chain",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_belt.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249380"
+        "source": "Sporefall(Catalyst)",
+        "wowhead_url": "https://www.wowhead.com/item=249967"
       },
       {
         "slot": "Legs",
@@ -239,11 +239,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 193708,
-        "item_name": "Platinum Star Band",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_10_dungeonjewelry_explorer_ring_1_color1.jpg",
-        "source": "Algeth'ar Academy",
-        "wowhead_url": "https://www.wowhead.com/item=193708"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
@@ -295,11 +295,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -343,11 +343,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249967,
-        "item_name": "Relentless Rider's Chain",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_belt.jpg",
-        "source": "Catalyst",
-        "wowhead_url": "https://www.wowhead.com/item=249967"
+        "item_id": 268289,
+        "item_name": "Girdle of Devouring Rot",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidpaladinmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268289"
       },
       {
         "slot": "Legs",
@@ -423,19 +423,19 @@
       },
       {
         "slot": "Head",
-        "item_id": 251109,
-        "item_name": "Spellsnap Shadowmask",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_dungeonharronir_c_01.jpg",
-        "source": "Magister's Terrace",
-        "wowhead_url": "https://www.wowhead.com/item=251109"
+        "item_id": 250033,
+        "item_name": "Devouring Reaver's Intake",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raiddemonhuntermidnight_d_01.jpg",
+        "source": "RotmireCatalyzed",
+        "wowhead_url": "https://www.wowhead.com/item=250033"
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -479,11 +479,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 251082,
-        "item_name": "Snapvine Cinch",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251082"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -559,11 +559,11 @@
       },
       {
         "slot": "Head",
-        "item_id": 250033,
-        "item_name": "Devouring Reaver's Intake",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raiddemonhuntermidnight_d_01.jpg",
-        "source": "Lightblinded Vanguard(Tier Set)",
-        "wowhead_url": "https://www.wowhead.com/item=250033"
+        "item_id": 268283,
+        "item_name": "Festerbloom Crown",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raiddruidmidnight_d_01.jpg",
+        "source": "Sporefall(Tier Set)",
+        "wowhead_url": "https://www.wowhead.com/item=268283"
       },
       {
         "slot": "Neck",
@@ -615,11 +615,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 49806,
-        "item_name": "Flayer's Black Belt",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_65.jpg",
-        "source": "Pit of Saron",
-        "wowhead_url": "https://www.wowhead.com/item=49806"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Sporefall(Tier Set)",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -638,15 +638,7 @@
         "wowhead_url": "https://www.wowhead.com/item=251210"
       },
       {
-        "slot": "Ring Set",
-        "item_id": 251093,
-        "item_name": "Omission of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_silver.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251093"
-      },
-      {
-        "slot": "Ring (Defensive)",
+        "slot": "Ring",
         "item_id": 249920,
         "item_name": "Eye of Midnight",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
@@ -655,11 +647,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 251513,
-        "item_name": "Loa Worshiper's Band",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_profession_jewelcrafting_ring3_silver.jpg",
-        "source": "Crafting",
-        "wowhead_url": "https://www.wowhead.com/item=251513"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -671,11 +663,11 @@
       },
       {
         "slot": "Trinket",
-        "item_id": 249344,
-        "item_name": "Light Company Guidon",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_voidspire_physdps1_armyoflightbanner.jpg",
-        "source": "Imperator Averzian",
-        "wowhead_url": "https://www.wowhead.com/item=249344"
+        "item_id": 268292,
+        "item_name": "Sporelord's Mycelial Insignia",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_1207_fungarianraid_trinket.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268292"
       }
     ]
   },
@@ -687,11 +679,11 @@
     "bis_items": [
       {
         "slot": "Weapon",
-        "item_id": 251111,
-        "item_name": "Splitshroud Stinger",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_knife_1h_dungeonharronir_c_02.jpg",
-        "source": "Magister's Terrace",
-        "wowhead_url": "https://www.wowhead.com/item=251111"
+        "item_id": 251083,
+        "item_name": "Excavating Cudgel",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_mace_1h_dungeonharronir_c_02.jpg",
+        "source": "Windrunner Spire",
+        "wowhead_url": "https://www.wowhead.com/item=251083"
       },
       {
         "slot": "Offhand",
@@ -706,16 +698,16 @@
         "item_id": 250024,
         "item_name": "Branches of the Luminous Bloom",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raiddruidmidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Sporefall(Catalyze It!)",
         "wowhead_url": "https://www.wowhead.com/item=250024"
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -727,11 +719,11 @@
       },
       {
         "slot": "Cloak",
-        "item_id": 249370,
-        "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
-        "source": "Vaelgor & Ezzorak",
-        "wowhead_url": "https://www.wowhead.com/item=249370"
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_draenordungeon_c_02_plate.jpg",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
       },
       {
         "slot": "Chest",
@@ -751,19 +743,19 @@
       },
       {
         "slot": "Gloves",
-        "item_id": 251113,
-        "item_name": "Gloves of Viscous Goo",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_glove_leather_dungeonharronir_c_01.jpg",
-        "source": "Magister's Terrace",
-        "wowhead_url": "https://www.wowhead.com/item=251113"
+        "item_id": 249321,
+        "item_name": "Vaelgor's Fearsome Grasp",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_glove_leather_raiddruidmidnight_d_01.jpg",
+        "source": "Vaelgor & Ezzorak",
+        "wowhead_url": "https://www.wowhead.com/item=249321"
       },
       {
         "slot": "Belt",
-        "item_id": 251082,
-        "item_name": "Snapvine Cinch",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251082"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -775,27 +767,27 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249382,
-        "item_name": "Canopy Walker's Footwraps",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_leather_raiddruidmidnight_d_01.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249382"
+        "item_id": 258577,
+        "item_name": "Boots of Burning Focus",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_leather_draenordungeon_c_01boot.jpg",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258577"
       },
       {
         "slot": "Ring",
-        "item_id": 251093,
-        "item_name": "Omission of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_silver.jpg",
-        "source": "Nexus-Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251093"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
-        "item_id": 251217,
-        "item_name": "Occlusion of Void",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_bronze.jpg",
-        "source": "Nexus-Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251217"
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_10_dungeonjewelry_explorer_ring_1_color1.jpg",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
       },
       {
         "slot": "Trinket",
@@ -839,11 +831,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -857,7 +849,7 @@
         "slot": "Cloak",
         "item_id": 249370,
         "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_revendrethraid_d_01_cape.jpg",
         "source": "Vaelgor & Ezzorak",
         "wowhead_url": "https://www.wowhead.com/item=249370"
       },
@@ -887,11 +879,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 251082,
-        "item_name": "Snapvine Cinch",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251082"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -911,19 +903,19 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
-        "item_id": 251115,
-        "item_name": "Bifurcation Band",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency2_void.jpg",
-        "source": "Magister's Terrace",
-        "wowhead_url": "https://www.wowhead.com/item=251115"
+        "item_id": 13335,
+        "item_name": "Deathcharger's Reins",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/ability_mount_undeadhorse.jpg",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=13335"
       },
       {
         "slot": "Trinket",
@@ -959,19 +951,19 @@
       },
       {
         "slot": "Head",
-        "item_id": 249913,
-        "item_name": "Mask of Darkest Intent",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raidroguemidnight_d_01.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249913"
+        "item_id": 268283,
+        "item_name": "Festerbloom Crown",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raiddruidmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268283"
       },
       {
         "slot": "Neck",
-        "item_id": 249368,
-        "item_name": "Eternal Voidsong Chain",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_necklace_blue1.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249368"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -985,7 +977,7 @@
         "slot": "Cloak",
         "item_id": 249370,
         "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_revendrethraid_d_01_cape.jpg",
         "source": "Vaelgor & Ezzorak",
         "wowhead_url": "https://www.wowhead.com/item=249370"
       },
@@ -1015,11 +1007,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249374,
-        "item_name": "Scorn-Scarred Shul'ka's Belt",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidmonkmidnight_d_01.jpg",
-        "source": "Chimaerus",
-        "wowhead_url": "https://www.wowhead.com/item=249374"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -1039,11 +1031,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 251093,
-        "item_name": "Omission of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_silver.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251093"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
@@ -1087,11 +1079,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -1105,7 +1097,7 @@
         "slot": "Cape",
         "item_id": 249370,
         "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_revendrethraid_d_01_cape.jpg",
         "source": "Vaelgor & Ezzorak(Raid)",
         "wowhead_url": "https://www.wowhead.com/item=249370"
       },
@@ -1167,11 +1159,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 251115,
-        "item_name": "Bifurcation Band",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency2_void.jpg",
-        "source": "Magister's Terrace",
-        "wowhead_url": "https://www.wowhead.com/item=251115"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinkets",
@@ -1231,11 +1223,11 @@
       },
       {
         "slot": "Head",
-        "item_id": 133506,
-        "item_name": "Horns of the Spurned Val'kyr",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helmet_157.jpg",
-        "source": "Pit of Saron",
-        "wowhead_url": "https://www.wowhead.com/item=133506"
+        "item_id": 249914,
+        "item_name": "Oblivion Guise",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_mail_raidshamanmidnight_d_01.jpg",
+        "source": "Midnight Falls",
+        "wowhead_url": "https://www.wowhead.com/item=249914"
       },
       {
         "slot": "Neck",
@@ -1298,7 +1290,7 @@
         "item_id": 249996,
         "item_name": "Greaves of the Black Talon",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidevokermidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Rotmire(The Catalyst)",
         "wowhead_url": "https://www.wowhead.com/item=249996"
       },
       {
@@ -1306,16 +1298,16 @@
         "item_id": 249999,
         "item_name": "Spelltreads of the Black Talon",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidevokermidnight_d_01.jpg",
-        "source": "The Catalyst",
+        "source": "Rotmire(The Catalyst)",
         "wowhead_url": "https://www.wowhead.com/item=249999"
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
@@ -1375,11 +1367,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -1434,16 +1426,16 @@
         "item_id": 249996,
         "item_name": "Greaves of the Black Talon",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidevokermidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Tier Set (Catalyze Sporefall if possible)",
         "wowhead_url": "https://www.wowhead.com/item=249996"
       },
       {
         "slot": "Boots",
-        "item_id": 249377,
-        "item_name": "Darkstrider Treads",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidhuntermidnight_d_01.jpg",
-        "source": "Belo'ren",
-        "wowhead_url": "https://www.wowhead.com/item=249377"
+        "item_id": 268287,
+        "item_name": "Grudgefiend Stompers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidshamanmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268287"
       },
       {
         "slot": "Ring",
@@ -1455,11 +1447,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -1495,11 +1487,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -1559,11 +1551,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 251084,
-        "item_name": "Whipcoil Sabatons",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251084"
+        "item_id": 268287,
+        "item_name": "Grudgefiend Stompers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidshamanmidnight_d_01.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268287"
       },
       {
         "slot": "Ring",
@@ -1575,11 +1567,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinkets",
@@ -1631,11 +1623,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -1647,11 +1639,11 @@
       },
       {
         "slot": "Cloak",
-        "item_id": 258575,
-        "item_name": "Rigid Scale Greatcloak",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_draenordungeon_c_02_plate.jpg",
-        "source": "Skyreach",
-        "wowhead_url": "https://www.wowhead.com/item=258575"
+        "item_id": 239656,
+        "item_name": "Adherent's Silken Shroud",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_cloth_questbloodelf_b_01.jpg",
+        "source": "Tailoring",
+        "wowhead_url": "https://www.wowhead.com/item=239656"
       },
       {
         "slot": "Chest",
@@ -1663,11 +1655,11 @@
       },
       {
         "slot": "Wrist",
-        "item_id": 251209,
-        "item_name": "Corewarden Cuffs",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_mail_dungeonharronir_c_01.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251209"
+        "item_id": 244584,
+        "item_name": "Farstrider's Plated Bracers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_mail_questbloodelf_b_01.jpg",
+        "source": "Leatherworking",
+        "wowhead_url": "https://www.wowhead.com/item=244584"
       },
       {
         "slot": "Gloves",
@@ -1679,27 +1671,27 @@
       },
       {
         "slot": "Belt",
-        "item_id": 244611,
-        "item_name": "World Tender's Barkclasp",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_mail_questbloodelf_b_01.jpg",
-        "source": "Leatherworking",
-        "wowhead_url": "https://www.wowhead.com/item=244611"
+        "item_id": 249985,
+        "item_name": "Primal Sentry's Cinch",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_mail_raidhuntermidnight_d_01.jpg",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=249985"
       },
       {
         "slot": "Legs",
         "item_id": 249987,
         "item_name": "Primal Sentry's Legguards",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidhuntermidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Tier Set/Sporefall",
         "wowhead_url": "https://www.wowhead.com/item=249987"
       },
       {
         "slot": "Boots",
-        "item_id": 244610,
-        "item_name": "World Tender's Rootslippers",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_questbloodelf_b_01.jpg",
-        "source": "Leatherworking",
-        "wowhead_url": "https://www.wowhead.com/item=244610"
+        "item_id": 268287,
+        "item_name": "Grudgefiend Stompers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidshamanmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268287"
       },
       {
         "slot": "Ring",
@@ -1711,11 +1703,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249369,
-        "item_name": "Bond of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_blue1.jpg",
-        "source": "Lightblinded Vanguard",
-        "wowhead_url": "https://www.wowhead.com/item=249369"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -1743,11 +1735,11 @@
     "bis_items": [
       {
         "slot": "Weapon",
-        "item_id": 249288,
-        "item_name": "Ranger-Captain's Lethal Recurve",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bow_1h_raidmidnight_d_01.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249288"
+        "item_id": 258412,
+        "item_name": "Stormshaper's Crossbow",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bow_2h_crossbow_draenordungeon_c_01.jpg",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258412"
       },
       {
         "slot": "Head",
@@ -1759,35 +1751,35 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
-        "item_id": 151323,
-        "item_name": "Pauldrons of the Void Hunter",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_shoulder_mail_legiondungeon_c_03.jpg",
-        "source": "Seat of the Triumvirate",
-        "wowhead_url": "https://www.wowhead.com/item=151323"
+        "item_id": 249986,
+        "item_name": "Primal Sentry's Trophies",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_shoulder_mail_raidhuntermidnight_d_01.jpg",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249986"
       },
       {
         "slot": "Cloak",
-        "item_id": 249335,
-        "item_name": "Imperator's Banner",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_cape.jpg",
-        "source": "Imperator Averzian",
-        "wowhead_url": "https://www.wowhead.com/item=249335"
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_draenordungeon_c_02_plate.jpg",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
       },
       {
         "slot": "Chest",
-        "item_id": 249991,
-        "item_name": "Primal Sentry's Scaleplate",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_mail_raidhuntermidnight_d_01.jpg",
-        "source": "Tier Set",
-        "wowhead_url": "https://www.wowhead.com/item=249991"
+        "item_id": 244609,
+        "item_name": "World Tender's Trunkplate",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_mail_questbloodelf_b_01.jpg",
+        "source": "Leatherworking",
+        "wowhead_url": "https://www.wowhead.com/item=244609"
       },
       {
         "slot": "Wrist",
@@ -1810,7 +1802,7 @@
         "item_id": 244611,
         "item_name": "World Tender's Barkclasp",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_mail_questbloodelf_b_01.jpg",
-        "source": "Crafting",
+        "source": "Leatherworking",
         "wowhead_url": "https://www.wowhead.com/item=244611"
       },
       {
@@ -1818,24 +1810,16 @@
         "item_id": 249987,
         "item_name": "Primal Sentry's Legguards",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidhuntermidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Catalyst theRotmireLegs",
         "wowhead_url": "https://www.wowhead.com/item=249987"
       },
       {
         "slot": "Boots",
-        "item_id": 244610,
-        "item_name": "World Tender's Rootslippers",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_questbloodelf_b_01.jpg",
-        "source": "Crafting",
-        "wowhead_url": "https://www.wowhead.com/item=244610"
-      },
-      {
-        "slot": "Ring",
-        "item_id": 249919,
-        "item_name": "Sin'dorei Band of Hope",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_red1.jpg",
-        "source": "Belo'ren",
-        "wowhead_url": "https://www.wowhead.com/item=249919"
+        "item_id": 249990,
+        "item_name": "Primal Sentry's Swiftsteps",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidhuntermidnight_d_01.jpg",
+        "source": "Catalyst theRotmireBoots",
+        "wowhead_url": "https://www.wowhead.com/item=249990"
       },
       {
         "slot": "Ring",
@@ -1844,6 +1828,14 @@
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_silver2.jpg",
         "source": "Vorasius",
         "wowhead_url": "https://www.wowhead.com/item=249336"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 249919,
+        "item_name": "Sin'dorei Band of Hope",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_red1.jpg",
+        "source": "Belo'ren",
+        "wowhead_url": "https://www.wowhead.com/item=249919"
       },
       {
         "slot": "Trinket",
@@ -1903,11 +1895,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "L'ura(March on Quel'Danas)",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Rotmire(Sporefall)",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -1919,11 +1911,11 @@
       },
       {
         "slot": "Cloak",
-        "item_id": 239656,
-        "item_name": "Adherent's Silken Shroud",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_cloth_questbloodelf_b_01.jpg",
-        "source": "Crafting",
-        "wowhead_url": "https://www.wowhead.com/item=239656"
+        "item_id": 258575,
+        "item_name": "Rigid Scale Greatcloak",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_draenordungeon_c_02_plate.jpg",
+        "source": "Skyreach",
+        "wowhead_url": "https://www.wowhead.com/item=258575"
       },
       {
         "slot": "Chest",
@@ -1935,11 +1927,11 @@
       },
       {
         "slot": "Wrist",
-        "item_id": 249984,
-        "item_name": "Primal Sentry's Wound Stanchers",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_mail_raidhuntermidnight_d_01.jpg",
-        "source": "Tier Set",
-        "wowhead_url": "https://www.wowhead.com/item=249984"
+        "item_id": 244584,
+        "item_name": "Farstrider's Plated Bracers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_mail_questbloodelf_b_01.jpg",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244584"
       },
       {
         "slot": "Gloves",
@@ -1967,11 +1959,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 251084,
-        "item_name": "Whipcoil Sabatons",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251084"
+        "item_id": 249990,
+        "item_name": "Primal Sentry's Swiftsteps",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidhuntermidnight_d_01.jpg",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=249990"
       },
       {
         "slot": "Ring",
@@ -1983,11 +1975,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "L'ura(March on Quel'Danas)",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 251217,
+        "item_name": "Occlusion of Void",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_bronze.jpg",
+        "source": "Nexus Point Xenas",
+        "wowhead_url": "https://www.wowhead.com/item=251217"
       },
       {
         "slot": "Trinket",
@@ -2039,11 +2031,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -2066,7 +2058,7 @@
         "item_id": 250063,
         "item_name": "Voidbreaker's Robe",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidmagemidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Sporefall(Catalyze it!)",
         "wowhead_url": "https://www.wowhead.com/item=250063"
       },
       {
@@ -2103,11 +2095,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249373,
-        "item_name": "Dream-Scorched Striders",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidmagemidnight_d_01.jpg",
-        "source": "Chimaerus",
-        "wowhead_url": "https://www.wowhead.com/item=249373"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -2119,11 +2111,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -2191,11 +2183,11 @@
       },
       {
         "slot": "Chest",
-        "item_id": 249912,
-        "item_name": "Robes of Endless Oblivion",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249912"
+        "item_id": 268284,
+        "item_name": "Mycomancer's Rot Robes",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidmagemidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268284"
       },
       {
         "slot": "Wrist",
@@ -2247,11 +2239,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249369,
-        "item_name": "Bond of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_blue1.jpg",
-        "source": "Lightblinded Vanguard",
-        "wowhead_url": "https://www.wowhead.com/item=249369"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -2279,19 +2271,11 @@
     "bis_items": [
       {
         "slot": "Weapon",
-        "item_id": 258218,
-        "item_name": "Skybreaker's Blade",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_sword_1h_short_c_03.jpg",
-        "source": "Skyreach",
-        "wowhead_url": "https://www.wowhead.com/item=258218"
-      },
-      {
-        "slot": "Off Hand",
-        "item_id": 245769,
-        "item_name": "Aln'hara Lantern",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_offhand_1h_dungeonharronir_c_01.jpg",
-        "source": "Crafting",
-        "wowhead_url": "https://www.wowhead.com/item=245769"
+        "item_id": 258514,
+        "item_name": "Umbral Spire of Zuraal",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_staff_2h_oribosdungeon_c_01.jpg",
+        "source": "Seat of the Triumvirate",
+        "wowhead_url": "https://www.wowhead.com/item=258514"
       },
       {
         "slot": "Head",
@@ -2303,11 +2287,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -2330,7 +2314,7 @@
         "item_id": 250063,
         "item_name": "Voidbreaker's Robe",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidmagemidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Sporefall(Catalyst)",
         "wowhead_url": "https://www.wowhead.com/item=250063"
       },
       {
@@ -2351,11 +2335,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 250057,
-        "item_name": "Voidbreaker's Sage Cord",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_cloth_raidmagemidnight_d_01.jpg",
-        "source": "The Catalyst",
-        "wowhead_url": "https://www.wowhead.com/item=250057"
+        "item_id": 239664,
+        "item_name": "Arcanoweave Cord",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_cloth_questbloodelf_b_01.jpg",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=239664"
       },
       {
         "slot": "Legs",
@@ -2367,19 +2351,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249373,
-        "item_name": "Dream-Scorched Striders",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidmagemidnight_d_01.jpg",
-        "source": "Chimaerus",
-        "wowhead_url": "https://www.wowhead.com/item=249373"
-      },
-      {
-        "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -2388,6 +2364,14 @@
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_red1.jpg",
         "source": "Belo'ren",
         "wowhead_url": "https://www.wowhead.com/item=249919"
+      },
+      {
+        "slot": "Ring",
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -2439,11 +2423,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 240950,
-        "item_name": "Masterwork Sin'dorei Amulet",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_profession_jewelcrafting_necklace2_gold.jpg",
-        "source": "Jewelcrafting",
-        "wowhead_url": "https://www.wowhead.com/item=240950"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -2487,11 +2471,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 251082,
-        "item_name": "Snapvine Cinch",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251082"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -2503,11 +2487,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 151317,
-        "item_name": "Footpads of Seeping Dread",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_leather_legiondungeon_c_03.jpg",
-        "source": "Seat of the Triumvirate",
-        "wowhead_url": "https://www.wowhead.com/item=151317"
+        "item_id": 244569,
+        "item_name": "Silvermoon Agent's Sneakers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_leather_questbloodelf_b_01.jpg",
+        "source": "Leatherworking",
+        "wowhead_url": "https://www.wowhead.com/item=244569"
       },
       {
         "slot": "Ring 1",
@@ -2527,11 +2511,11 @@
       },
       {
         "slot": "Trinket (Damage)",
-        "item_id": 249806,
-        "item_name": "Radiant Plume",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_dualityphoenix_holy_feather.jpg",
+        "item_id": 260235,
+        "item_name": "Umbral Plume",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_dualityphoenix_void_feather.jpg",
         "source": "Belo'ren",
-        "wowhead_url": "https://www.wowhead.com/item=249806"
+        "wowhead_url": "https://www.wowhead.com/item=260235"
       },
       {
         "slot": "Trinket (Damage)",
@@ -2582,11 +2566,11 @@
         "wowhead_url": "https://www.wowhead.com/item=249276"
       },
       {
-        "slot": "Head",
+        "slot": "Helm",
         "item_id": 250015,
         "item_name": "Fearsome Visage of Ra-den's Chosen",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raidmonkmidnight_d_01.jpg",
-        "source": "CatalystviaMask of Darkest Intent",
+        "source": "CatalystviaFesterbloom Crown(Rotmire)",
         "wowhead_url": "https://www.wowhead.com/item=250015"
       },
       {
@@ -2607,11 +2591,11 @@
       },
       {
         "slot": "Cape",
-        "item_id": 260312,
-        "item_name": "Defiant Defender's Drape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_dungeonharronir_c_01.jpg",
-        "source": "Magister's Terrace",
-        "wowhead_url": "https://www.wowhead.com/item=260312"
+        "item_id": 250010,
+        "item_name": "Windwrap of Ra-den's Chosen",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_leather_raidmonkmidnight_d_01.jpg",
+        "source": "Catalyst",
+        "wowhead_url": "https://www.wowhead.com/item=250010"
       },
       {
         "slot": "Chest",
@@ -2623,11 +2607,11 @@
       },
       {
         "slot": "Bracers",
-        "item_id": 249327,
-        "item_name": "Void-Skinned Bracers",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_leather_raidroguemidnight_d_01.jpg",
-        "source": "Vorasius(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249327"
+        "item_id": 50264,
+        "item_name": "Chewed Leather Wristguards",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_23a.jpg",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50264"
       },
       {
         "slot": "Gloves",
@@ -2639,11 +2623,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249374,
-        "item_name": "Scorn-Scarred Shul'ka's Belt",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidmonkmidnight_d_01.jpg",
-        "source": "Chimaerus(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249374"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Rotmire(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -2663,27 +2647,19 @@
       },
       {
         "slot": "Ring",
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Rotmire(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
+      },
+      {
+        "slot": "Ring",
         "item_id": 249920,
         "item_name": "Eye of Midnight",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
         "source": "Midnight Falls(Raid)",
         "wowhead_url": "https://www.wowhead.com/item=249920"
-      },
-      {
-        "slot": "Ring",
-        "item_id": 49812,
-        "item_name": "Purloined Wedding Ring",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_jewelry_ring_42.jpg",
-        "source": "Pit of Saron",
-        "wowhead_url": "https://www.wowhead.com/item=49812"
-      },
-      {
-        "slot": "Trinket",
-        "item_id": 249808,
-        "item_name": "Litany of Lightblind Wrath",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath.jpg",
-        "source": "Lightblinded Vanguard(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249808"
       },
       {
         "slot": "Trinket",
@@ -2692,6 +2668,14 @@
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_dreamrift_gazeofthealnseer.jpg",
         "source": "Chimaerus(Raid)",
         "wowhead_url": "https://www.wowhead.com/item=249343"
+      },
+      {
+        "slot": "Trinket",
+        "item_id": 249808,
+        "item_name": "Litany of Lightblind Wrath",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath.jpg",
+        "source": "Lightblinded Vanguard(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249808"
       }
     ]
   },
@@ -2702,6 +2686,14 @@
     "url": "https://www.wowhead.com/guide/classes/monk/windwalker/bis-gear",
     "bis_items": [
       {
+        "slot": "2H Weapon",
+        "item_id": 251162,
+        "item_name": "Traitor's Talon",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_polearm_2h_dungeonharronir_c_01.jpg",
+        "source": "Maisara Caverns",
+        "wowhead_url": "https://www.wowhead.com/item=251162"
+      },
+      {
         "slot": "Head",
         "item_id": 250015,
         "item_name": "Fearsome Visage of Ra-den's Chosen",
@@ -2711,11 +2703,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulder",
@@ -2743,11 +2735,11 @@
       },
       {
         "slot": "Wrist",
-        "item_id": 249327,
-        "item_name": "Void-Skinned Bracers",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_leather_raidroguemidnight_d_01.jpg",
-        "source": "Vorasius",
-        "wowhead_url": "https://www.wowhead.com/item=249327"
+        "item_id": 244576,
+        "item_name": "Silvermoon Agent's Deflectors",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_leather_questbloodelf_b_01.jpg",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244576"
       },
       {
         "slot": "Hands",
@@ -2759,11 +2751,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 251082,
-        "item_name": "Snapvine Cinch",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251082"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -2791,19 +2783,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
-      },
-      {
-        "slot": "2H Weapon",
-        "item_id": 251162,
-        "item_name": "Traitor's Talon",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_polearm_2h_dungeonharronir_c_01.jpg",
-        "source": "Maisara Caverns",
-        "wowhead_url": "https://www.wowhead.com/item=251162"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket 1",
@@ -2855,11 +2839,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -2882,7 +2866,7 @@
         "item_id": 249964,
         "item_name": "Luminant Verdict's Divine Warplate",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_plate_raidpaladinmidnight_d_01.jpg",
-        "source": "Chimaerus",
+        "source": "Sporefall(Catalyst)",
         "wowhead_url": "https://www.wowhead.com/item=249964"
       },
       {
@@ -2903,11 +2887,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249331,
-        "item_name": "Ezzorak's Gloombind",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Vaelgor & Ezzorak",
-        "wowhead_url": "https://www.wowhead.com/item=249331"
+        "item_id": 268289,
+        "item_name": "Girdle of Devouring Rot",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidpaladinmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268289"
       },
       {
         "slot": "Legs",
@@ -2935,11 +2919,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249919,
-        "item_name": "Sin'dorei Band of Hope",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_red1.jpg",
-        "source": "Belo'ren",
-        "wowhead_url": "https://www.wowhead.com/item=249919"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -2991,11 +2975,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 249368,
-        "item_name": "Eternal Voidsong Chain",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_necklace_blue1.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249368"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -3009,17 +2993,17 @@
         "slot": "Cloak",
         "item_id": 249370,
         "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_revendrethraid_d_01_cape.jpg",
         "source": "Vaelgor & Ezzorak",
         "wowhead_url": "https://www.wowhead.com/item=249370"
       },
       {
         "slot": "Chest",
-        "item_id": 249964,
-        "item_name": "Luminant Verdict's Divine Warplate",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_plate_raidpaladinmidnight_d_01.jpg",
-        "source": "Tier Set",
-        "wowhead_url": "https://www.wowhead.com/item=249964"
+        "item_id": 268285,
+        "item_name": "Putrid Tender's Battleplate",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_chest.jpg",
+        "source": "Sporefall- Catalyze it!",
+        "wowhead_url": "https://www.wowhead.com/item=268285"
       },
       {
         "slot": "Wrist",
@@ -3039,11 +3023,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249331,
-        "item_name": "Ezzorak's Gloombind",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Vaelgor & Ezzorak",
-        "wowhead_url": "https://www.wowhead.com/item=249331"
+        "item_id": 268289,
+        "item_name": "Girdle of Devouring Rot",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidpaladinmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268289"
       },
       {
         "slot": "Legs",
@@ -3071,11 +3055,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 151311,
-        "item_name": "Band of the Triumvirate",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_70_dungeon_ring2b.jpg",
-        "source": "Seat of the Triumvirate",
-        "wowhead_url": "https://www.wowhead.com/item=151311"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -3119,11 +3103,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -3167,11 +3151,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249380,
-        "item_name": "Hate-Tied Waistchain",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_belt.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249380"
+        "item_id": 268289,
+        "item_name": "Girdle of Devouring Rot",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidpaladinmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268289"
       },
       {
         "slot": "Legs",
@@ -3199,11 +3183,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring (Alternative Set)",
@@ -3223,11 +3207,11 @@
       },
       {
         "slot": "Trinket",
-        "item_id": 260235,
-        "item_name": "Umbral Plume",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_dualityphoenix_void_feather.jpg",
-        "source": "Belo'ren",
-        "wowhead_url": "https://www.wowhead.com/item=260235"
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_dreamrift_gazeofthealnseer.jpg",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
       },
       {
         "slot": "Trinket",
@@ -3273,17 +3257,17 @@
         "slot": "Cape",
         "item_id": 249370,
         "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_revendrethraid_d_01_cape.jpg",
         "source": "Vaelgor & Ezzorak(Raid)",
         "wowhead_url": "https://www.wowhead.com/item=249370"
       },
       {
         "slot": "Chest",
-        "item_id": 249912,
-        "item_name": "Robes of Endless Oblivion",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249912"
+        "item_id": 268284,
+        "item_name": "Mycomancer's Rot Robes",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidmagemidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268284"
       },
       {
         "slot": "Bracers",
@@ -3319,11 +3303,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 258584,
-        "item_name": "Lightbinder Treads",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cloth_draenordungeon_c_01boot.jpg",
-        "source": "Skyreach",
-        "wowhead_url": "https://www.wowhead.com/item=258584"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -3335,11 +3319,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 251093,
-        "item_name": "Omission of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_silver.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251093"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinkets",
@@ -3391,11 +3375,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -3415,11 +3399,11 @@
       },
       {
         "slot": "Chest",
-        "item_id": 249912,
-        "item_name": "Robes of Endless Oblivion",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249912"
+        "item_id": 250054,
+        "item_name": "Blind Oath's Raiment",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_robe_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall|Catalyst|Vault",
+        "wowhead_url": "https://www.wowhead.com/item=250054"
       },
       {
         "slot": "Bracers",
@@ -3455,11 +3439,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249373,
-        "item_name": "Dream-Scorched Striders",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidmagemidnight_d_01.jpg",
-        "source": "Chimaerus",
-        "wowhead_url": "https://www.wowhead.com/item=249373"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -3527,11 +3511,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 249368,
+        "item_name": "Eternal Voidsong Chain",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_necklace_blue1.jpg",
+        "source": "Crown of the Cosmos",
+        "wowhead_url": "https://www.wowhead.com/item=249368"
       },
       {
         "slot": "Shoulders",
@@ -3545,7 +3529,7 @@
         "slot": "Cape",
         "item_id": 249370,
         "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_revendrethraid_d_01_cape.jpg",
         "source": "Vaelgor & Ezzorak(Raid)",
         "wowhead_url": "https://www.wowhead.com/item=249370"
       },
@@ -3554,7 +3538,7 @@
         "item_id": 250054,
         "item_name": "Blind Oath's Raiment",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_robe_cloth_raidpriestmidnight_d_01.jpg",
-        "source": "Raid|Catalyst|Vault",
+        "source": "Sporefall|Catalyst|Vault",
         "wowhead_url": "https://www.wowhead.com/item=250054"
       },
       {
@@ -3591,11 +3575,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249373,
-        "item_name": "Dream-Scorched Striders",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidmagemidnight_d_01.jpg",
-        "source": "Chimaerus",
-        "wowhead_url": "https://www.wowhead.com/item=249373"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -3607,11 +3591,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249369,
-        "item_name": "Bond of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_blue1.jpg",
-        "source": "Lightblinded Vanguard(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249369"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinkets",
@@ -3671,11 +3655,11 @@
       },
       {
         "slot": "Head",
-        "item_id": 250006,
-        "item_name": "Masquerade of the Grim Jest",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raidroguemidnight_d_01.jpg",
-        "source": "Tier Set",
-        "wowhead_url": "https://www.wowhead.com/item=250006"
+        "item_id": 268283,
+        "item_name": "Festerbloom Crown",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raiddruidmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268283"
       },
       {
         "slot": "Neck",
@@ -3735,11 +3719,11 @@
       },
       {
         "slot": "Legs",
-        "item_id": 251087,
-        "item_name": "Legwraps of Lingering Legacies",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_leather_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251087"
+        "item_id": 250005,
+        "item_name": "Blade Holsters of the Grim Jest",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_leather_raidroguemidnight_d_01.jpg",
+        "source": "Tier Set",
+        "wowhead_url": "https://www.wowhead.com/item=250005"
       },
       {
         "slot": "Boots",
@@ -3759,11 +3743,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -3807,11 +3791,11 @@
       },
       {
         "slot": "Head",
-        "item_id": 151336,
-        "item_name": "Voidlashed Hood",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_legiondungeon_c_03.jpg",
-        "source": "Seat of the Triumvirate",
-        "wowhead_url": "https://www.wowhead.com/item=151336"
+        "item_id": 268283,
+        "item_name": "Festerbloom Crown",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_helm_leather_raiddruidmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268283"
       },
       {
         "slot": "Neck",
@@ -3935,11 +3919,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 249368,
-        "item_name": "Eternal Voidsong Chain",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_necklace_blue1.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249368"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -3951,11 +3935,11 @@
       },
       {
         "slot": "Cloak",
-        "item_id": 258575,
-        "item_name": "Rigid Scale Greatcloak",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_draenordungeon_c_02_plate.jpg",
-        "source": "Skyreach",
-        "wowhead_url": "https://www.wowhead.com/item=258575"
+        "item_id": 260312,
+        "item_name": "Defiant Defender's Drape",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_dungeonharronir_c_01.jpg",
+        "source": "Magister's Terrace",
+        "wowhead_url": "https://www.wowhead.com/item=260312"
       },
       {
         "slot": "Chest",
@@ -3967,11 +3951,11 @@
       },
       {
         "slot": "Wrist",
-        "item_id": 249327,
-        "item_name": "Void-Skinned Bracers",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_leather_raidroguemidnight_d_01.jpg",
-        "source": "Vorasius",
-        "wowhead_url": "https://www.wowhead.com/item=249327"
+        "item_id": 50264,
+        "item_name": "Chewed Leather Wristguards",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_bracer_23a.jpg",
+        "source": "Pit of Saron",
+        "wowhead_url": "https://www.wowhead.com/item=50264"
       },
       {
         "slot": "Gloves",
@@ -3983,11 +3967,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 244573,
-        "item_name": "Silvermoon Agent's Utility Belt",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_questbloodelf_b_01.jpg",
-        "source": "Crafting",
-        "wowhead_url": "https://www.wowhead.com/item=244573"
+        "item_id": 268286,
+        "item_name": "Sash of the Putrid Giant",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_leather_raidroguemidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268286"
       },
       {
         "slot": "Legs",
@@ -3999,27 +3983,27 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249382,
-        "item_name": "Canopy Walker's Footwraps",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_leather_raiddruidmidnight_d_01.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249382"
+        "item_id": 244569,
+        "item_name": "Silvermoon Agent's Sneakers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_leather_questbloodelf_b_01.jpg",
+        "source": "Crafting",
+        "wowhead_url": "https://www.wowhead.com/item=244569"
       },
       {
         "slot": "Ring",
-        "item_id": 249369,
-        "item_name": "Bond of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_blue1.jpg",
-        "source": "Lightblinded Vanguard",
-        "wowhead_url": "https://www.wowhead.com/item=249369"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
-        "item_id": 249919,
-        "item_name": "Sin'dorei Band of Hope",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_ring_red1.jpg",
-        "source": "Belo'ren",
-        "wowhead_url": "https://www.wowhead.com/item=249919"
+        "item_id": 193708,
+        "item_name": "Platinum Star Band",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_10_dungeonjewelry_explorer_ring_1_color1.jpg",
+        "source": "Algeth'ar Academy",
+        "wowhead_url": "https://www.wowhead.com/item=193708"
       },
       {
         "slot": "Trinket",
@@ -4143,11 +4127,11 @@
       },
       {
         "slot": "Legs",
-        "item_id": 251215,
-        "item_name": "Greaves of the Divine Guile",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_dungeonharronir_c_01.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251215"
+        "item_id": 268288,
+        "item_name": "Fungarian Folly Faulds",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidevokermidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268288"
       },
       {
         "slot": "Boots",
@@ -4159,11 +4143,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 193708,
-        "item_name": "Platinum Star Band",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_10_dungeonjewelry_explorer_ring_1_color1.jpg",
-        "source": "Algeth'ar Academy",
-        "wowhead_url": "https://www.wowhead.com/item=193708"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
@@ -4223,11 +4207,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 250247,
-        "item_name": "Amulet of the Abyssal Hymn",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze2.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=250247"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -4279,19 +4263,19 @@
       },
       {
         "slot": "Legs",
-        "item_id": 249324,
-        "item_name": "Eternal Flame Scaleguards",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidhuntermidnight_d_01.jpg",
-        "source": "Belo'ren",
-        "wowhead_url": "https://www.wowhead.com/item=249324"
+        "item_id": 268288,
+        "item_name": "Fungarian Folly Faulds",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidevokermidnight_d_01.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268288"
       },
       {
         "slot": "Boots",
-        "item_id": 251084,
-        "item_name": "Whipcoil Sabatons",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_dungeonharronir_c_01.jpg",
-        "source": "Windrunner Spire",
-        "wowhead_url": "https://www.wowhead.com/item=251084"
+        "item_id": 268287,
+        "item_name": "Grudgefiend Stompers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidshamanmidnight_d_01.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268287"
       },
       {
         "slot": "Ring 1",
@@ -4303,18 +4287,18 @@
       },
       {
         "slot": "Ring 2",
-        "item_id": 251093,
-        "item_name": "Omission of Light",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_silver.jpg",
-        "source": "Nexus-Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251093"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket 1",
         "item_id": 249343,
         "item_name": "Gaze of the Alnseer",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_dreamrift_gazeofthealnseer.jpg",
-        "source": "Raid",
+        "source": "Chimaerus",
         "wowhead_url": "https://www.wowhead.com/item=249343"
       },
       {
@@ -4343,11 +4327,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 249337,
-        "item_name": "Ribbon of Coiled Malice",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_necklace_bronze.jpg",
-        "source": "Fallen-King Salhadaar(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249337"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Rotmire(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -4402,16 +4386,16 @@
         "item_id": 249978,
         "item_name": "Leggings of the Primal Core",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_pant_mail_raidshamanmidnight_d_01.jpg",
-        "source": "Raid|Catalyst|Vault",
+        "source": "Catalyst(fromFungarian Folly Faulds)",
         "wowhead_url": "https://www.wowhead.com/item=249978"
       },
       {
         "slot": "Boots",
-        "item_id": 249320,
-        "item_name": "Sabatons of Obscurement",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidevokermidnight_d_01.jpg",
-        "source": "Imperator Averzian(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249320"
+        "item_id": 268287,
+        "item_name": "Grudgefiend Stompers",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_mail_raidshamanmidnight_d_01.jpg",
+        "source": "Rotmire(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268287"
       },
       {
         "slot": "Ring",
@@ -4431,11 +4415,11 @@
       },
       {
         "slot": "Trinkets",
-        "item_id": 249811,
-        "item_name": "Light of the Cosmic Crescendo",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_darkwelle_healer3_cosmiccrescendo.jpg",
-        "source": "Midnight Falls(Raid)",
-        "wowhead_url": "https://www.wowhead.com/item=249811"
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_dreamrift_gazeofthealnseer.jpg",
+        "source": "Chimaerus(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
       },
       {
         "slot": "Trinkets",
@@ -4522,7 +4506,7 @@
         "item_id": 250045,
         "item_name": "Abyssal Immolator's Dreadrobe",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Tier Set298 fromSporefall",
         "wowhead_url": "https://www.wowhead.com/item=250045"
       },
       {
@@ -4559,11 +4543,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249305,
-        "item_name": "Slippers of the Midnight Flame",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Vaelgor",
-        "wowhead_url": "https://www.wowhead.com/item=249305"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -4575,11 +4559,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 251217,
-        "item_name": "Occlusion of Void",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_bronze.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251217"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -4695,11 +4679,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249305,
-        "item_name": "Slippers of the Midnight Flame",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Vaelgor",
-        "wowhead_url": "https://www.wowhead.com/item=249305"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -4711,11 +4695,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 251217,
-        "item_name": "Occlusion of Void",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_bronze.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251217"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -4727,11 +4711,11 @@
       },
       {
         "slot": "Trinket",
-        "item_id": 249809,
-        "item_name": "Locus-Walker's Ribbon",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249809"
+        "item_id": 249343,
+        "item_name": "Gaze of the Alnseer",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_raid_dreamrift_gazeofthealnseer.jpg",
+        "source": "Chimaerus",
+        "wowhead_url": "https://www.wowhead.com/item=249343"
       },
       {
         "slot": "Alt Trinket",
@@ -4802,7 +4786,7 @@
         "item_id": 250045,
         "item_name": "Abyssal Immolator's Dreadrobe",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Tier Set",
+        "source": "Sporefall+Catalyst|Tier Set",
         "wowhead_url": "https://www.wowhead.com/item=250045"
       },
       {
@@ -4839,11 +4823,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249305,
-        "item_name": "Slippers of the Midnight Flame",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidwarlockmidnight_d_01.jpg",
-        "source": "Vaelgor",
-        "wowhead_url": "https://www.wowhead.com/item=249305"
+        "item_id": 268282,
+        "item_name": "Luxurious Loamstriders",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_cloth_raidpriestmidnight_d_01.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268282"
       },
       {
         "slot": "Ring",
@@ -4855,11 +4839,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 251217,
-        "item_name": "Occlusion of Void",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_trinket_devouring_host_currency1_bronze.jpg",
-        "source": "Nexus Point Xenas",
-        "wowhead_url": "https://www.wowhead.com/item=251217"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall(Raid)",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -4922,7 +4906,7 @@
         "item_id": 249955,
         "item_name": "Night Ender's Breastplate",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Chimaerus",
+        "source": "Rotmire(Catalyst)",
         "wowhead_url": "https://www.wowhead.com/item=249955"
       },
       {
@@ -4946,7 +4930,7 @@
         "item_id": 249949,
         "item_name": "Night Ender's Girdle",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Catalyst",
+        "source": "Rotmire(Catalyst)",
         "wowhead_url": "https://www.wowhead.com/item=249949"
       },
       {
@@ -4967,11 +4951,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 249920,
-        "item_name": "Eye of Midnight",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_devouringhost_ring_bronze.jpg",
-        "source": "Midnight Falls",
-        "wowhead_url": "https://www.wowhead.com/item=249920"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Ring",
@@ -5050,7 +5034,7 @@
         "item_id": 249955,
         "item_name": "Night Ender's Breastplate",
         "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Chimaerus",
+        "source": "Rotmire(Catalyst)",
         "wowhead_url": "https://www.wowhead.com/item=249955"
       },
       {
@@ -5071,11 +5055,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249949,
-        "item_name": "Night Ender's Girdle",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Catalyst",
-        "wowhead_url": "https://www.wowhead.com/item=249949"
+        "item_id": 268289,
+        "item_name": "Girdle of Devouring Rot",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidpaladinmidnight_d_01.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268289"
       },
       {
         "slot": "Legs",
@@ -5087,11 +5071,11 @@
       },
       {
         "slot": "Boots",
-        "item_id": 249954,
-        "item_name": "Night Ender's Greatboots",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_boot_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Catalyst",
-        "wowhead_url": "https://www.wowhead.com/item=249954"
+        "item_id": 260377,
+        "item_name": "Fading Dawn Sabatons",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_boot.jpg",
+        "source": "Raid BoE for targeted stats",
+        "wowhead_url": "https://www.wowhead.com/item=260377"
       },
       {
         "slot": "Ring",
@@ -5103,11 +5087,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 193708,
-        "item_name": "Platinum Star Band",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_10_dungeonjewelry_explorer_ring_1_color1.jpg",
-        "source": "Algeth'ar Academy",
-        "wowhead_url": "https://www.wowhead.com/item=193708"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Rotmire",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
@@ -5175,11 +5159,11 @@
       },
       {
         "slot": "Neck",
-        "item_id": 249368,
-        "item_name": "Eternal Voidsong Chain",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_silvermoonelf_necklace_blue1.jpg",
-        "source": "Crown of the Cosmos",
-        "wowhead_url": "https://www.wowhead.com/item=249368"
+        "item_id": 268291,
+        "item_name": "Rotmire's Sporeheart",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_necklace_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268291"
       },
       {
         "slot": "Shoulders",
@@ -5193,17 +5177,17 @@
         "slot": "Cloak",
         "item_id": 249370,
         "item_name": "Draconic Nullcape",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_cape_plate_raidpaladinmidnight_d_01.jpg",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_revendrethraid_d_01_cape.jpg",
         "source": "Vaelgor & Ezzorak",
         "wowhead_url": "https://www.wowhead.com/item=249370"
       },
       {
         "slot": "Chest",
-        "item_id": 249955,
-        "item_name": "Night Ender's Breastplate",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_chest_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Tier Set",
-        "wowhead_url": "https://www.wowhead.com/item=249955"
+        "item_id": 268285,
+        "item_name": "Putrid Tender's Battleplate",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_plate_raiddeathknightmidnight_d_01_chest.jpg",
+        "source": "Sporefall- Catalyze it!",
+        "wowhead_url": "https://www.wowhead.com/item=268285"
       },
       {
         "slot": "Wrist",
@@ -5223,11 +5207,11 @@
       },
       {
         "slot": "Belt",
-        "item_id": 249331,
-        "item_name": "Ezzorak's Gloombind",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidwarriormidnight_d_01.jpg",
-        "source": "Vaelgor & Ezzorak",
-        "wowhead_url": "https://www.wowhead.com/item=249331"
+        "item_id": 268289,
+        "item_name": "Girdle of Devouring Rot",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_belt_plate_raidpaladinmidnight_d_01.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268289"
       },
       {
         "slot": "Legs",
@@ -5255,11 +5239,11 @@
       },
       {
         "slot": "Ring",
-        "item_id": 151311,
-        "item_name": "Band of the Triumvirate",
-        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_70_dungeon_ring2b.jpg",
-        "source": "Seat of the Triumvirate",
-        "wowhead_url": "https://www.wowhead.com/item=151311"
+        "item_id": 268290,
+        "item_name": "Sporecaller's Blooming Loop",
+        "icon_url": "https://wow.zamimg.com/images/wow/icons/small/inv_12_jewelry_rutaani_ring_blue.jpg",
+        "source": "Sporefall",
+        "wowhead_url": "https://www.wowhead.com/item=268290"
       },
       {
         "slot": "Trinket",
